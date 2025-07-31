@@ -1,0 +1,1729 @@
+Precio_Compra,Costo_Mantenimiento,Num_Puertas,Capacidad_Personas,Tamano_Maletero,Seguridad,Aceptacion
+Muy alto,Muy alto,2,2,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,2,2,Pequeño,Media,No aceptable
+Muy alto,Muy alto,2,2,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,2,2,Mediano,Baja,No aceptable
+Muy alto,Muy alto,2,2,Mediano,Media,No aceptable
+Muy alto,Muy alto,2,2,Mediano,Alta,No aceptable
+Muy alto,Muy alto,2,2,Grande,Baja,No aceptable
+Muy alto,Muy alto,2,2,Grande,Media,No aceptable
+Muy alto,Muy alto,2,2,Grande,Alta,No aceptable
+Muy alto,Muy alto,2,4,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,2,4,Pequeño,Media,No aceptable
+Muy alto,Muy alto,2,4,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,2,4,Mediano,Baja,No aceptable
+Muy alto,Muy alto,2,4,Mediano,Media,No aceptable
+Muy alto,Muy alto,2,4,Mediano,Alta,No aceptable
+Muy alto,Muy alto,2,4,Grande,Baja,No aceptable
+Muy alto,Muy alto,2,4,Grande,Media,No aceptable
+Muy alto,Muy alto,2,4,Grande,Alta,No aceptable
+Muy alto,Muy alto,2,más,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,2,más,Pequeño,Media,No aceptable
+Muy alto,Muy alto,2,más,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,2,más,Mediano,Baja,No aceptable
+Muy alto,Muy alto,2,más,Mediano,Media,No aceptable
+Muy alto,Muy alto,2,más,Mediano,Alta,No aceptable
+Muy alto,Muy alto,2,más,Grande,Baja,No aceptable
+Muy alto,Muy alto,2,más,Grande,Media,No aceptable
+Muy alto,Muy alto,2,más,Grande,Alta,No aceptable
+Muy alto,Muy alto,3,2,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,3,2,Pequeño,Media,No aceptable
+Muy alto,Muy alto,3,2,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,3,2,Mediano,Baja,No aceptable
+Muy alto,Muy alto,3,2,Mediano,Media,No aceptable
+Muy alto,Muy alto,3,2,Mediano,Alta,No aceptable
+Muy alto,Muy alto,3,2,Grande,Baja,No aceptable
+Muy alto,Muy alto,3,2,Grande,Media,No aceptable
+Muy alto,Muy alto,3,2,Grande,Alta,No aceptable
+Muy alto,Muy alto,3,4,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,3,4,Pequeño,Media,No aceptable
+Muy alto,Muy alto,3,4,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,3,4,Mediano,Baja,No aceptable
+Muy alto,Muy alto,3,4,Mediano,Media,No aceptable
+Muy alto,Muy alto,3,4,Mediano,Alta,No aceptable
+Muy alto,Muy alto,3,4,Grande,Baja,No aceptable
+Muy alto,Muy alto,3,4,Grande,Media,No aceptable
+Muy alto,Muy alto,3,4,Grande,Alta,No aceptable
+Muy alto,Muy alto,3,más,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,3,más,Pequeño,Media,No aceptable
+Muy alto,Muy alto,3,más,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,3,más,Mediano,Baja,No aceptable
+Muy alto,Muy alto,3,más,Mediano,Media,No aceptable
+Muy alto,Muy alto,3,más,Mediano,Alta,No aceptable
+Muy alto,Muy alto,3,más,Grande,Baja,No aceptable
+Muy alto,Muy alto,3,más,Grande,Media,No aceptable
+Muy alto,Muy alto,3,más,Grande,Alta,No aceptable
+Muy alto,Muy alto,4,2,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,4,2,Pequeño,Media,No aceptable
+Muy alto,Muy alto,4,2,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,4,2,Mediano,Baja,No aceptable
+Muy alto,Muy alto,4,2,Mediano,Media,No aceptable
+Muy alto,Muy alto,4,2,Mediano,Alta,No aceptable
+Muy alto,Muy alto,4,2,Grande,Baja,No aceptable
+Muy alto,Muy alto,4,2,Grande,Media,No aceptable
+Muy alto,Muy alto,4,2,Grande,Alta,No aceptable
+Muy alto,Muy alto,4,4,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,4,4,Pequeño,Media,No aceptable
+Muy alto,Muy alto,4,4,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,4,4,Mediano,Baja,No aceptable
+Muy alto,Muy alto,4,4,Mediano,Media,No aceptable
+Muy alto,Muy alto,4,4,Mediano,Alta,No aceptable
+Muy alto,Muy alto,4,4,Grande,Baja,No aceptable
+Muy alto,Muy alto,4,4,Grande,Media,No aceptable
+Muy alto,Muy alto,4,4,Grande,Alta,No aceptable
+Muy alto,Muy alto,4,más,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,4,más,Pequeño,Media,No aceptable
+Muy alto,Muy alto,4,más,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,4,más,Mediano,Baja,No aceptable
+Muy alto,Muy alto,4,más,Mediano,Media,No aceptable
+Muy alto,Muy alto,4,más,Mediano,Alta,No aceptable
+Muy alto,Muy alto,4,más,Grande,Baja,No aceptable
+Muy alto,Muy alto,4,más,Grande,Media,No aceptable
+Muy alto,Muy alto,4,más,Grande,Alta,No aceptable
+Muy alto,Muy alto,5 o más,2,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,5 o más,2,Pequeño,Media,No aceptable
+Muy alto,Muy alto,5 o más,2,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,5 o más,2,Mediano,Baja,No aceptable
+Muy alto,Muy alto,5 o más,2,Mediano,Media,No aceptable
+Muy alto,Muy alto,5 o más,2,Mediano,Alta,No aceptable
+Muy alto,Muy alto,5 o más,2,Grande,Baja,No aceptable
+Muy alto,Muy alto,5 o más,2,Grande,Media,No aceptable
+Muy alto,Muy alto,5 o más,2,Grande,Alta,No aceptable
+Muy alto,Muy alto,5 o más,4,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,5 o más,4,Pequeño,Media,No aceptable
+Muy alto,Muy alto,5 o más,4,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,5 o más,4,Mediano,Baja,No aceptable
+Muy alto,Muy alto,5 o más,4,Mediano,Media,No aceptable
+Muy alto,Muy alto,5 o más,4,Mediano,Alta,No aceptable
+Muy alto,Muy alto,5 o más,4,Grande,Baja,No aceptable
+Muy alto,Muy alto,5 o más,4,Grande,Media,No aceptable
+Muy alto,Muy alto,5 o más,4,Grande,Alta,No aceptable
+Muy alto,Muy alto,5 o más,más,Pequeño,Baja,No aceptable
+Muy alto,Muy alto,5 o más,más,Pequeño,Media,No aceptable
+Muy alto,Muy alto,5 o más,más,Pequeño,Alta,No aceptable
+Muy alto,Muy alto,5 o más,más,Mediano,Baja,No aceptable
+Muy alto,Muy alto,5 o más,más,Mediano,Media,No aceptable
+Muy alto,Muy alto,5 o más,más,Mediano,Alta,No aceptable
+Muy alto,Muy alto,5 o más,más,Grande,Baja,No aceptable
+Muy alto,Muy alto,5 o más,más,Grande,Media,No aceptable
+Muy alto,Muy alto,5 o más,más,Grande,Alta,No aceptable
+Muy alto,Alto,2,2,Pequeño,Baja,No aceptable
+Muy alto,Alto,2,2,Pequeño,Media,No aceptable
+Muy alto,Alto,2,2,Pequeño,Alta,No aceptable
+Muy alto,Alto,2,2,Mediano,Baja,No aceptable
+Muy alto,Alto,2,2,Mediano,Media,No aceptable
+Muy alto,Alto,2,2,Mediano,Alta,No aceptable
+Muy alto,Alto,2,2,Grande,Baja,No aceptable
+Muy alto,Alto,2,2,Grande,Media,No aceptable
+Muy alto,Alto,2,2,Grande,Alta,No aceptable
+Muy alto,Alto,2,4,Pequeño,Baja,No aceptable
+Muy alto,Alto,2,4,Pequeño,Media,No aceptable
+Muy alto,Alto,2,4,Pequeño,Alta,No aceptable
+Muy alto,Alto,2,4,Mediano,Baja,No aceptable
+Muy alto,Alto,2,4,Mediano,Media,No aceptable
+Muy alto,Alto,2,4,Mediano,Alta,No aceptable
+Muy alto,Alto,2,4,Grande,Baja,No aceptable
+Muy alto,Alto,2,4,Grande,Media,No aceptable
+Muy alto,Alto,2,4,Grande,Alta,No aceptable
+Muy alto,Alto,2,más,Pequeño,Baja,No aceptable
+Muy alto,Alto,2,más,Pequeño,Media,No aceptable
+Muy alto,Alto,2,más,Pequeño,Alta,No aceptable
+Muy alto,Alto,2,más,Mediano,Baja,No aceptable
+Muy alto,Alto,2,más,Mediano,Media,No aceptable
+Muy alto,Alto,2,más,Mediano,Alta,No aceptable
+Muy alto,Alto,2,más,Grande,Baja,No aceptable
+Muy alto,Alto,2,más,Grande,Media,No aceptable
+Muy alto,Alto,2,más,Grande,Alta,No aceptable
+Muy alto,Alto,3,2,Pequeño,Baja,No aceptable
+Muy alto,Alto,3,2,Pequeño,Media,No aceptable
+Muy alto,Alto,3,2,Pequeño,Alta,No aceptable
+Muy alto,Alto,3,2,Mediano,Baja,No aceptable
+Muy alto,Alto,3,2,Mediano,Media,No aceptable
+Muy alto,Alto,3,2,Mediano,Alta,No aceptable
+Muy alto,Alto,3,2,Grande,Baja,No aceptable
+Muy alto,Alto,3,2,Grande,Media,No aceptable
+Muy alto,Alto,3,2,Grande,Alta,No aceptable
+Muy alto,Alto,3,4,Pequeño,Baja,No aceptable
+Muy alto,Alto,3,4,Pequeño,Media,No aceptable
+Muy alto,Alto,3,4,Pequeño,Alta,No aceptable
+Muy alto,Alto,3,4,Mediano,Baja,No aceptable
+Muy alto,Alto,3,4,Mediano,Media,No aceptable
+Muy alto,Alto,3,4,Mediano,Alta,No aceptable
+Muy alto,Alto,3,4,Grande,Baja,No aceptable
+Muy alto,Alto,3,4,Grande,Media,No aceptable
+Muy alto,Alto,3,4,Grande,Alta,No aceptable
+Muy alto,Alto,3,más,Pequeño,Baja,No aceptable
+Muy alto,Alto,3,más,Pequeño,Media,No aceptable
+Muy alto,Alto,3,más,Pequeño,Alta,No aceptable
+Muy alto,Alto,3,más,Mediano,Baja,No aceptable
+Muy alto,Alto,3,más,Mediano,Media,No aceptable
+Muy alto,Alto,3,más,Mediano,Alta,No aceptable
+Muy alto,Alto,3,más,Grande,Baja,No aceptable
+Muy alto,Alto,3,más,Grande,Media,No aceptable
+Muy alto,Alto,3,más,Grande,Alta,No aceptable
+Muy alto,Alto,4,2,Pequeño,Baja,No aceptable
+Muy alto,Alto,4,2,Pequeño,Media,No aceptable
+Muy alto,Alto,4,2,Pequeño,Alta,No aceptable
+Muy alto,Alto,4,2,Mediano,Baja,No aceptable
+Muy alto,Alto,4,2,Mediano,Media,No aceptable
+Muy alto,Alto,4,2,Mediano,Alta,No aceptable
+Muy alto,Alto,4,2,Grande,Baja,No aceptable
+Muy alto,Alto,4,2,Grande,Media,No aceptable
+Muy alto,Alto,4,2,Grande,Alta,No aceptable
+Muy alto,Alto,4,4,Pequeño,Baja,No aceptable
+Muy alto,Alto,4,4,Pequeño,Media,No aceptable
+Muy alto,Alto,4,4,Pequeño,Alta,No aceptable
+Muy alto,Alto,4,4,Mediano,Baja,No aceptable
+Muy alto,Alto,4,4,Mediano,Media,No aceptable
+Muy alto,Alto,4,4,Mediano,Alta,No aceptable
+Muy alto,Alto,4,4,Grande,Baja,No aceptable
+Muy alto,Alto,4,4,Grande,Media,No aceptable
+Muy alto,Alto,4,4,Grande,Alta,No aceptable
+Muy alto,Alto,4,más,Pequeño,Baja,No aceptable
+Muy alto,Alto,4,más,Pequeño,Media,No aceptable
+Muy alto,Alto,4,más,Pequeño,Alta,No aceptable
+Muy alto,Alto,4,más,Mediano,Baja,No aceptable
+Muy alto,Alto,4,más,Mediano,Media,No aceptable
+Muy alto,Alto,4,más,Mediano,Alta,No aceptable
+Muy alto,Alto,4,más,Grande,Baja,No aceptable
+Muy alto,Alto,4,más,Grande,Media,No aceptable
+Muy alto,Alto,4,más,Grande,Alta,No aceptable
+Muy alto,Alto,5 o más,2,Pequeño,Baja,No aceptable
+Muy alto,Alto,5 o más,2,Pequeño,Media,No aceptable
+Muy alto,Alto,5 o más,2,Pequeño,Alta,No aceptable
+Muy alto,Alto,5 o más,2,Mediano,Baja,No aceptable
+Muy alto,Alto,5 o más,2,Mediano,Media,No aceptable
+Muy alto,Alto,5 o más,2,Mediano,Alta,No aceptable
+Muy alto,Alto,5 o más,2,Grande,Baja,No aceptable
+Muy alto,Alto,5 o más,2,Grande,Media,No aceptable
+Muy alto,Alto,5 o más,2,Grande,Alta,No aceptable
+Muy alto,Alto,5 o más,4,Pequeño,Baja,No aceptable
+Muy alto,Alto,5 o más,4,Pequeño,Media,No aceptable
+Muy alto,Alto,5 o más,4,Pequeño,Alta,No aceptable
+Muy alto,Alto,5 o más,4,Mediano,Baja,No aceptable
+Muy alto,Alto,5 o más,4,Mediano,Media,No aceptable
+Muy alto,Alto,5 o más,4,Mediano,Alta,No aceptable
+Muy alto,Alto,5 o más,4,Grande,Baja,No aceptable
+Muy alto,Alto,5 o más,4,Grande,Media,No aceptable
+Muy alto,Alto,5 o más,4,Grande,Alta,No aceptable
+Muy alto,Alto,5 o más,más,Pequeño,Baja,No aceptable
+Muy alto,Alto,5 o más,más,Pequeño,Media,No aceptable
+Muy alto,Alto,5 o más,más,Pequeño,Alta,No aceptable
+Muy alto,Alto,5 o más,más,Mediano,Baja,No aceptable
+Muy alto,Alto,5 o más,más,Mediano,Media,No aceptable
+Muy alto,Alto,5 o más,más,Mediano,Alta,No aceptable
+Muy alto,Alto,5 o más,más,Grande,Baja,No aceptable
+Muy alto,Alto,5 o más,más,Grande,Media,No aceptable
+Muy alto,Alto,5 o más,más,Grande,Alta,No aceptable
+Muy alto,Medio,2,2,Pequeño,Baja,No aceptable
+Muy alto,Medio,2,2,Pequeño,Media,No aceptable
+Muy alto,Medio,2,2,Pequeño,Alta,No aceptable
+Muy alto,Medio,2,2,Mediano,Baja,No aceptable
+Muy alto,Medio,2,2,Mediano,Media,No aceptable
+Muy alto,Medio,2,2,Mediano,Alta,No aceptable
+Muy alto,Medio,2,2,Grande,Baja,No aceptable
+Muy alto,Medio,2,2,Grande,Media,No aceptable
+Muy alto,Medio,2,2,Grande,Alta,No aceptable
+Muy alto,Medio,2,4,Pequeño,Baja,No aceptable
+Muy alto,Medio,2,4,Pequeño,Media,No aceptable
+Muy alto,Medio,2,4,Pequeño,Alta,Aceptable
+Muy alto,Medio,2,4,Mediano,Baja,No aceptable
+Muy alto,Medio,2,4,Mediano,Media,No aceptable
+Muy alto,Medio,2,4,Mediano,Alta,Aceptable
+Muy alto,Medio,2,4,Grande,Baja,No aceptable
+Muy alto,Medio,2,4,Grande,Media,Aceptable
+Muy alto,Medio,2,4,Grande,Alta,Aceptable
+Muy alto,Medio,2,más,Pequeño,Baja,No aceptable
+Muy alto,Medio,2,más,Pequeño,Media,No aceptable
+Muy alto,Medio,2,más,Pequeño,Alta,No aceptable
+Muy alto,Medio,2,más,Mediano,Baja,No aceptable
+Muy alto,Medio,2,más,Mediano,Media,No aceptable
+Muy alto,Medio,2,más,Mediano,Alta,Aceptable
+Muy alto,Medio,2,más,Grande,Baja,No aceptable
+Muy alto,Medio,2,más,Grande,Media,Aceptable
+Muy alto,Medio,2,más,Grande,Alta,Aceptable
+Muy alto,Medio,3,2,Pequeño,Baja,No aceptable
+Muy alto,Medio,3,2,Pequeño,Media,No aceptable
+Muy alto,Medio,3,2,Pequeño,Alta,No aceptable
+Muy alto,Medio,3,2,Mediano,Baja,No aceptable
+Muy alto,Medio,3,2,Mediano,Media,No aceptable
+Muy alto,Medio,3,2,Mediano,Alta,No aceptable
+Muy alto,Medio,3,2,Grande,Baja,No aceptable
+Muy alto,Medio,3,2,Grande,Media,No aceptable
+Muy alto,Medio,3,2,Grande,Alta,No aceptable
+Muy alto,Medio,3,4,Pequeño,Baja,No aceptable
+Muy alto,Medio,3,4,Pequeño,Media,No aceptable
+Muy alto,Medio,3,4,Pequeño,Alta,Aceptable
+Muy alto,Medio,3,4,Mediano,Baja,No aceptable
+Muy alto,Medio,3,4,Mediano,Media,No aceptable
+Muy alto,Medio,3,4,Mediano,Alta,Aceptable
+Muy alto,Medio,3,4,Grande,Baja,No aceptable
+Muy alto,Medio,3,4,Grande,Media,Aceptable
+Muy alto,Medio,3,4,Grande,Alta,Aceptable
+Muy alto,Medio,3,más,Pequeño,Baja,No aceptable
+Muy alto,Medio,3,más,Pequeño,Media,No aceptable
+Muy alto,Medio,3,más,Pequeño,Alta,Aceptable
+Muy alto,Medio,3,más,Mediano,Baja,No aceptable
+Muy alto,Medio,3,más,Mediano,Media,Aceptable
+Muy alto,Medio,3,más,Mediano,Alta,Aceptable
+Muy alto,Medio,3,más,Grande,Baja,No aceptable
+Muy alto,Medio,3,más,Grande,Media,Aceptable
+Muy alto,Medio,3,más,Grande,Alta,Aceptable
+Muy alto,Medio,4,2,Pequeño,Baja,No aceptable
+Muy alto,Medio,4,2,Pequeño,Media,No aceptable
+Muy alto,Medio,4,2,Pequeño,Alta,No aceptable
+Muy alto,Medio,4,2,Mediano,Baja,No aceptable
+Muy alto,Medio,4,2,Mediano,Media,No aceptable
+Muy alto,Medio,4,2,Mediano,Alta,No aceptable
+Muy alto,Medio,4,2,Grande,Baja,No aceptable
+Muy alto,Medio,4,2,Grande,Media,No aceptable
+Muy alto,Medio,4,2,Grande,Alta,No aceptable
+Muy alto,Medio,4,4,Pequeño,Baja,No aceptable
+Muy alto,Medio,4,4,Pequeño,Media,No aceptable
+Muy alto,Medio,4,4,Pequeño,Alta,Aceptable
+Muy alto,Medio,4,4,Mediano,Baja,No aceptable
+Muy alto,Medio,4,4,Mediano,Media,Aceptable
+Muy alto,Medio,4,4,Mediano,Alta,Aceptable
+Muy alto,Medio,4,4,Grande,Baja,No aceptable
+Muy alto,Medio,4,4,Grande,Media,Aceptable
+Muy alto,Medio,4,4,Grande,Alta,Aceptable
+Muy alto,Medio,4,más,Pequeño,Baja,No aceptable
+Muy alto,Medio,4,más,Pequeño,Media,No aceptable
+Muy alto,Medio,4,más,Pequeño,Alta,Aceptable
+Muy alto,Medio,4,más,Mediano,Baja,No aceptable
+Muy alto,Medio,4,más,Mediano,Media,Aceptable
+Muy alto,Medio,4,más,Mediano,Alta,Aceptable
+Muy alto,Medio,4,más,Grande,Baja,No aceptable
+Muy alto,Medio,4,más,Grande,Media,Aceptable
+Muy alto,Medio,4,más,Grande,Alta,Aceptable
+Muy alto,Medio,5 o más,2,Pequeño,Baja,No aceptable
+Muy alto,Medio,5 o más,2,Pequeño,Media,No aceptable
+Muy alto,Medio,5 o más,2,Pequeño,Alta,No aceptable
+Muy alto,Medio,5 o más,2,Mediano,Baja,No aceptable
+Muy alto,Medio,5 o más,2,Mediano,Media,No aceptable
+Muy alto,Medio,5 o más,2,Mediano,Alta,No aceptable
+Muy alto,Medio,5 o más,2,Grande,Baja,No aceptable
+Muy alto,Medio,5 o más,2,Grande,Media,No aceptable
+Muy alto,Medio,5 o más,2,Grande,Alta,No aceptable
+Muy alto,Medio,5 o más,4,Pequeño,Baja,No aceptable
+Muy alto,Medio,5 o más,4,Pequeño,Media,No aceptable
+Muy alto,Medio,5 o más,4,Pequeño,Alta,Aceptable
+Muy alto,Medio,5 o más,4,Mediano,Baja,No aceptable
+Muy alto,Medio,5 o más,4,Mediano,Media,Aceptable
+Muy alto,Medio,5 o más,4,Mediano,Alta,Aceptable
+Muy alto,Medio,5 o más,4,Grande,Baja,No aceptable
+Muy alto,Medio,5 o más,4,Grande,Media,Aceptable
+Muy alto,Medio,5 o más,4,Grande,Alta,Aceptable
+Muy alto,Medio,5 o más,más,Pequeño,Baja,No aceptable
+Muy alto,Medio,5 o más,más,Pequeño,Media,No aceptable
+Muy alto,Medio,5 o más,más,Pequeño,Alta,Aceptable
+Muy alto,Medio,5 o más,más,Mediano,Baja,No aceptable
+Muy alto,Medio,5 o más,más,Mediano,Media,Aceptable
+Muy alto,Medio,5 o más,más,Mediano,Alta,Aceptable
+Muy alto,Medio,5 o más,más,Grande,Baja,No aceptable
+Muy alto,Medio,5 o más,más,Grande,Media,Aceptable
+Muy alto,Medio,5 o más,más,Grande,Alta,Aceptable
+Muy alto,Bajo,2,2,Pequeño,Baja,No aceptable
+Muy alto,Bajo,2,2,Pequeño,Media,No aceptable
+Muy alto,Bajo,2,2,Pequeño,Alta,No aceptable
+Muy alto,Bajo,2,2,Mediano,Baja,No aceptable
+Muy alto,Bajo,2,2,Mediano,Media,No aceptable
+Muy alto,Bajo,2,2,Mediano,Alta,No aceptable
+Muy alto,Bajo,2,2,Grande,Baja,No aceptable
+Muy alto,Bajo,2,2,Grande,Media,No aceptable
+Muy alto,Bajo,2,2,Grande,Alta,No aceptable
+Muy alto,Bajo,2,4,Pequeño,Baja,No aceptable
+Muy alto,Bajo,2,4,Pequeño,Media,No aceptable
+Muy alto,Bajo,2,4,Pequeño,Alta,Aceptable
+Muy alto,Bajo,2,4,Mediano,Baja,No aceptable
+Muy alto,Bajo,2,4,Mediano,Media,No aceptable
+Muy alto,Bajo,2,4,Mediano,Alta,Aceptable
+Muy alto,Bajo,2,4,Grande,Baja,No aceptable
+Muy alto,Bajo,2,4,Grande,Media,Aceptable
+Muy alto,Bajo,2,4,Grande,Alta,Aceptable
+Muy alto,Bajo,2,más,Pequeño,Baja,No aceptable
+Muy alto,Bajo,2,más,Pequeño,Media,No aceptable
+Muy alto,Bajo,2,más,Pequeño,Alta,No aceptable
+Muy alto,Bajo,2,más,Mediano,Baja,No aceptable
+Muy alto,Bajo,2,más,Mediano,Media,No aceptable
+Muy alto,Bajo,2,más,Mediano,Alta,Aceptable
+Muy alto,Bajo,2,más,Grande,Baja,No aceptable
+Muy alto,Bajo,2,más,Grande,Media,Aceptable
+Muy alto,Bajo,2,más,Grande,Alta,Aceptable
+Muy alto,Bajo,3,2,Pequeño,Baja,No aceptable
+Muy alto,Bajo,3,2,Pequeño,Media,No aceptable
+Muy alto,Bajo,3,2,Pequeño,Alta,No aceptable
+Muy alto,Bajo,3,2,Mediano,Baja,No aceptable
+Muy alto,Bajo,3,2,Mediano,Media,No aceptable
+Muy alto,Bajo,3,2,Mediano,Alta,No aceptable
+Muy alto,Bajo,3,2,Grande,Baja,No aceptable
+Muy alto,Bajo,3,2,Grande,Media,No aceptable
+Muy alto,Bajo,3,2,Grande,Alta,No aceptable
+Muy alto,Bajo,3,4,Pequeño,Baja,No aceptable
+Muy alto,Bajo,3,4,Pequeño,Media,No aceptable
+Muy alto,Bajo,3,4,Pequeño,Alta,Aceptable
+Muy alto,Bajo,3,4,Mediano,Baja,No aceptable
+Muy alto,Bajo,3,4,Mediano,Media,No aceptable
+Muy alto,Bajo,3,4,Mediano,Alta,Aceptable
+Muy alto,Bajo,3,4,Grande,Baja,No aceptable
+Muy alto,Bajo,3,4,Grande,Media,Aceptable
+Muy alto,Bajo,3,4,Grande,Alta,Aceptable
+Muy alto,Bajo,3,más,Pequeño,Baja,No aceptable
+Muy alto,Bajo,3,más,Pequeño,Media,No aceptable
+Muy alto,Bajo,3,más,Pequeño,Alta,Aceptable
+Muy alto,Bajo,3,más,Mediano,Baja,No aceptable
+Muy alto,Bajo,3,más,Mediano,Media,Aceptable
+Muy alto,Bajo,3,más,Mediano,Alta,Aceptable
+Muy alto,Bajo,3,más,Grande,Baja,No aceptable
+Muy alto,Bajo,3,más,Grande,Media,Aceptable
+Muy alto,Bajo,3,más,Grande,Alta,Aceptable
+Muy alto,Bajo,4,2,Pequeño,Baja,No aceptable
+Muy alto,Bajo,4,2,Pequeño,Media,No aceptable
+Muy alto,Bajo,4,2,Pequeño,Alta,No aceptable
+Muy alto,Bajo,4,2,Mediano,Baja,No aceptable
+Muy alto,Bajo,4,2,Mediano,Media,No aceptable
+Muy alto,Bajo,4,2,Mediano,Alta,No aceptable
+Muy alto,Bajo,4,2,Grande,Baja,No aceptable
+Muy alto,Bajo,4,2,Grande,Media,No aceptable
+Muy alto,Bajo,4,2,Grande,Alta,No aceptable
+Muy alto,Bajo,4,4,Pequeño,Baja,No aceptable
+Muy alto,Bajo,4,4,Pequeño,Media,No aceptable
+Muy alto,Bajo,4,4,Pequeño,Alta,Aceptable
+Muy alto,Bajo,4,4,Mediano,Baja,No aceptable
+Muy alto,Bajo,4,4,Mediano,Media,Aceptable
+Muy alto,Bajo,4,4,Mediano,Alta,Aceptable
+Muy alto,Bajo,4,4,Grande,Baja,No aceptable
+Muy alto,Bajo,4,4,Grande,Media,Aceptable
+Muy alto,Bajo,4,4,Grande,Alta,Aceptable
+Muy alto,Bajo,4,más,Pequeño,Baja,No aceptable
+Muy alto,Bajo,4,más,Pequeño,Media,No aceptable
+Muy alto,Bajo,4,más,Pequeño,Alta,Aceptable
+Muy alto,Bajo,4,más,Mediano,Baja,No aceptable
+Muy alto,Bajo,4,más,Mediano,Media,Aceptable
+Muy alto,Bajo,4,más,Mediano,Alta,Aceptable
+Muy alto,Bajo,4,más,Grande,Baja,No aceptable
+Muy alto,Bajo,4,más,Grande,Media,Aceptable
+Muy alto,Bajo,4,más,Grande,Alta,Aceptable
+Muy alto,Bajo,5 o más,2,Pequeño,Baja,No aceptable
+Muy alto,Bajo,5 o más,2,Pequeño,Media,No aceptable
+Muy alto,Bajo,5 o más,2,Pequeño,Alta,No aceptable
+Muy alto,Bajo,5 o más,2,Mediano,Baja,No aceptable
+Muy alto,Bajo,5 o más,2,Mediano,Media,No aceptable
+Muy alto,Bajo,5 o más,2,Mediano,Alta,No aceptable
+Muy alto,Bajo,5 o más,2,Grande,Baja,No aceptable
+Muy alto,Bajo,5 o más,2,Grande,Media,No aceptable
+Muy alto,Bajo,5 o más,2,Grande,Alta,No aceptable
+Muy alto,Bajo,5 o más,4,Pequeño,Baja,No aceptable
+Muy alto,Bajo,5 o más,4,Pequeño,Media,No aceptable
+Muy alto,Bajo,5 o más,4,Pequeño,Alta,Aceptable
+Muy alto,Bajo,5 o más,4,Mediano,Baja,No aceptable
+Muy alto,Bajo,5 o más,4,Mediano,Media,Aceptable
+Muy alto,Bajo,5 o más,4,Mediano,Alta,Aceptable
+Muy alto,Bajo,5 o más,4,Grande,Baja,No aceptable
+Muy alto,Bajo,5 o más,4,Grande,Media,Aceptable
+Muy alto,Bajo,5 o más,4,Grande,Alta,Aceptable
+Muy alto,Bajo,5 o más,más,Pequeño,Baja,No aceptable
+Muy alto,Bajo,5 o más,más,Pequeño,Media,No aceptable
+Muy alto,Bajo,5 o más,más,Pequeño,Alta,Aceptable
+Muy alto,Bajo,5 o más,más,Mediano,Baja,No aceptable
+Muy alto,Bajo,5 o más,más,Mediano,Media,Aceptable
+Muy alto,Bajo,5 o más,más,Mediano,Alta,Aceptable
+Muy alto,Bajo,5 o más,más,Grande,Baja,No aceptable
+Muy alto,Bajo,5 o más,más,Grande,Media,Aceptable
+Muy alto,Bajo,5 o más,más,Grande,Alta,Aceptable
+Alto,Muy alto,2,2,Pequeño,Baja,No aceptable
+Alto,Muy alto,2,2,Pequeño,Media,No aceptable
+Alto,Muy alto,2,2,Pequeño,Alta,No aceptable
+Alto,Muy alto,2,2,Mediano,Baja,No aceptable
+Alto,Muy alto,2,2,Mediano,Media,No aceptable
+Alto,Muy alto,2,2,Mediano,Alta,No aceptable
+Alto,Muy alto,2,2,Grande,Baja,No aceptable
+Alto,Muy alto,2,2,Grande,Media,No aceptable
+Alto,Muy alto,2,2,Grande,Alta,No aceptable
+Alto,Muy alto,2,4,Pequeño,Baja,No aceptable
+Alto,Muy alto,2,4,Pequeño,Media,No aceptable
+Alto,Muy alto,2,4,Pequeño,Alta,No aceptable
+Alto,Muy alto,2,4,Mediano,Baja,No aceptable
+Alto,Muy alto,2,4,Mediano,Media,No aceptable
+Alto,Muy alto,2,4,Mediano,Alta,No aceptable
+Alto,Muy alto,2,4,Grande,Baja,No aceptable
+Alto,Muy alto,2,4,Grande,Media,No aceptable
+Alto,Muy alto,2,4,Grande,Alta,No aceptable
+Alto,Muy alto,2,más,Pequeño,Baja,No aceptable
+Alto,Muy alto,2,más,Pequeño,Media,No aceptable
+Alto,Muy alto,2,más,Pequeño,Alta,No aceptable
+Alto,Muy alto,2,más,Mediano,Baja,No aceptable
+Alto,Muy alto,2,más,Mediano,Media,No aceptable
+Alto,Muy alto,2,más,Mediano,Alta,No aceptable
+Alto,Muy alto,2,más,Grande,Baja,No aceptable
+Alto,Muy alto,2,más,Grande,Media,No aceptable
+Alto,Muy alto,2,más,Grande,Alta,No aceptable
+Alto,Muy alto,3,2,Pequeño,Baja,No aceptable
+Alto,Muy alto,3,2,Pequeño,Media,No aceptable
+Alto,Muy alto,3,2,Pequeño,Alta,No aceptable
+Alto,Muy alto,3,2,Mediano,Baja,No aceptable
+Alto,Muy alto,3,2,Mediano,Media,No aceptable
+Alto,Muy alto,3,2,Mediano,Alta,No aceptable
+Alto,Muy alto,3,2,Grande,Baja,No aceptable
+Alto,Muy alto,3,2,Grande,Media,No aceptable
+Alto,Muy alto,3,2,Grande,Alta,No aceptable
+Alto,Muy alto,3,4,Pequeño,Baja,No aceptable
+Alto,Muy alto,3,4,Pequeño,Media,No aceptable
+Alto,Muy alto,3,4,Pequeño,Alta,No aceptable
+Alto,Muy alto,3,4,Mediano,Baja,No aceptable
+Alto,Muy alto,3,4,Mediano,Media,No aceptable
+Alto,Muy alto,3,4,Mediano,Alta,No aceptable
+Alto,Muy alto,3,4,Grande,Baja,No aceptable
+Alto,Muy alto,3,4,Grande,Media,No aceptable
+Alto,Muy alto,3,4,Grande,Alta,No aceptable
+Alto,Muy alto,3,más,Pequeño,Baja,No aceptable
+Alto,Muy alto,3,más,Pequeño,Media,No aceptable
+Alto,Muy alto,3,más,Pequeño,Alta,No aceptable
+Alto,Muy alto,3,más,Mediano,Baja,No aceptable
+Alto,Muy alto,3,más,Mediano,Media,No aceptable
+Alto,Muy alto,3,más,Mediano,Alta,No aceptable
+Alto,Muy alto,3,más,Grande,Baja,No aceptable
+Alto,Muy alto,3,más,Grande,Media,No aceptable
+Alto,Muy alto,3,más,Grande,Alta,No aceptable
+Alto,Muy alto,4,2,Pequeño,Baja,No aceptable
+Alto,Muy alto,4,2,Pequeño,Media,No aceptable
+Alto,Muy alto,4,2,Pequeño,Alta,No aceptable
+Alto,Muy alto,4,2,Mediano,Baja,No aceptable
+Alto,Muy alto,4,2,Mediano,Media,No aceptable
+Alto,Muy alto,4,2,Mediano,Alta,No aceptable
+Alto,Muy alto,4,2,Grande,Baja,No aceptable
+Alto,Muy alto,4,2,Grande,Media,No aceptable
+Alto,Muy alto,4,2,Grande,Alta,No aceptable
+Alto,Muy alto,4,4,Pequeño,Baja,No aceptable
+Alto,Muy alto,4,4,Pequeño,Media,No aceptable
+Alto,Muy alto,4,4,Pequeño,Alta,No aceptable
+Alto,Muy alto,4,4,Mediano,Baja,No aceptable
+Alto,Muy alto,4,4,Mediano,Media,No aceptable
+Alto,Muy alto,4,4,Mediano,Alta,No aceptable
+Alto,Muy alto,4,4,Grande,Baja,No aceptable
+Alto,Muy alto,4,4,Grande,Media,No aceptable
+Alto,Muy alto,4,4,Grande,Alta,No aceptable
+Alto,Muy alto,4,más,Pequeño,Baja,No aceptable
+Alto,Muy alto,4,más,Pequeño,Media,No aceptable
+Alto,Muy alto,4,más,Pequeño,Alta,No aceptable
+Alto,Muy alto,4,más,Mediano,Baja,No aceptable
+Alto,Muy alto,4,más,Mediano,Media,No aceptable
+Alto,Muy alto,4,más,Mediano,Alta,No aceptable
+Alto,Muy alto,4,más,Grande,Baja,No aceptable
+Alto,Muy alto,4,más,Grande,Media,No aceptable
+Alto,Muy alto,4,más,Grande,Alta,No aceptable
+Alto,Muy alto,5 o más,2,Pequeño,Baja,No aceptable
+Alto,Muy alto,5 o más,2,Pequeño,Media,No aceptable
+Alto,Muy alto,5 o más,2,Pequeño,Alta,No aceptable
+Alto,Muy alto,5 o más,2,Mediano,Baja,No aceptable
+Alto,Muy alto,5 o más,2,Mediano,Media,No aceptable
+Alto,Muy alto,5 o más,2,Mediano,Alta,No aceptable
+Alto,Muy alto,5 o más,2,Grande,Baja,No aceptable
+Alto,Muy alto,5 o más,2,Grande,Media,No aceptable
+Alto,Muy alto,5 o más,2,Grande,Alta,No aceptable
+Alto,Muy alto,5 o más,4,Pequeño,Baja,No aceptable
+Alto,Muy alto,5 o más,4,Pequeño,Media,No aceptable
+Alto,Muy alto,5 o más,4,Pequeño,Alta,No aceptable
+Alto,Muy alto,5 o más,4,Mediano,Baja,No aceptable
+Alto,Muy alto,5 o más,4,Mediano,Media,No aceptable
+Alto,Muy alto,5 o más,4,Mediano,Alta,No aceptable
+Alto,Muy alto,5 o más,4,Grande,Baja,No aceptable
+Alto,Muy alto,5 o más,4,Grande,Media,No aceptable
+Alto,Muy alto,5 o más,4,Grande,Alta,No aceptable
+Alto,Muy alto,5 o más,más,Pequeño,Baja,No aceptable
+Alto,Muy alto,5 o más,más,Pequeño,Media,No aceptable
+Alto,Muy alto,5 o más,más,Pequeño,Alta,No aceptable
+Alto,Muy alto,5 o más,más,Mediano,Baja,No aceptable
+Alto,Muy alto,5 o más,más,Mediano,Media,No aceptable
+Alto,Muy alto,5 o más,más,Mediano,Alta,No aceptable
+Alto,Muy alto,5 o más,más,Grande,Baja,No aceptable
+Alto,Muy alto,5 o más,más,Grande,Media,No aceptable
+Alto,Muy alto,5 o más,más,Grande,Alta,No aceptable
+Alto,Alto,2,2,Pequeño,Baja,No aceptable
+Alto,Alto,2,2,Pequeño,Media,No aceptable
+Alto,Alto,2,2,Pequeño,Alta,No aceptable
+Alto,Alto,2,2,Mediano,Baja,No aceptable
+Alto,Alto,2,2,Mediano,Media,No aceptable
+Alto,Alto,2,2,Mediano,Alta,No aceptable
+Alto,Alto,2,2,Grande,Baja,No aceptable
+Alto,Alto,2,2,Grande,Media,No aceptable
+Alto,Alto,2,2,Grande,Alta,No aceptable
+Alto,Alto,2,4,Pequeño,Baja,No aceptable
+Alto,Alto,2,4,Pequeño,Media,No aceptable
+Alto,Alto,2,4,Pequeño,Alta,Aceptable
+Alto,Alto,2,4,Mediano,Baja,No aceptable
+Alto,Alto,2,4,Mediano,Media,No aceptable
+Alto,Alto,2,4,Mediano,Alta,Aceptable
+Alto,Alto,2,4,Grande,Baja,No aceptable
+Alto,Alto,2,4,Grande,Media,Aceptable
+Alto,Alto,2,4,Grande,Alta,Aceptable
+Alto,Alto,2,más,Pequeño,Baja,No aceptable
+Alto,Alto,2,más,Pequeño,Media,No aceptable
+Alto,Alto,2,más,Pequeño,Alta,No aceptable
+Alto,Alto,2,más,Mediano,Baja,No aceptable
+Alto,Alto,2,más,Mediano,Media,No aceptable
+Alto,Alto,2,más,Mediano,Alta,Aceptable
+Alto,Alto,2,más,Grande,Baja,No aceptable
+Alto,Alto,2,más,Grande,Media,Aceptable
+Alto,Alto,2,más,Grande,Alta,Aceptable
+Alto,Alto,3,2,Pequeño,Baja,No aceptable
+Alto,Alto,3,2,Pequeño,Media,No aceptable
+Alto,Alto,3,2,Pequeño,Alta,No aceptable
+Alto,Alto,3,2,Mediano,Baja,No aceptable
+Alto,Alto,3,2,Mediano,Media,No aceptable
+Alto,Alto,3,2,Mediano,Alta,No aceptable
+Alto,Alto,3,2,Grande,Baja,No aceptable
+Alto,Alto,3,2,Grande,Media,No aceptable
+Alto,Alto,3,2,Grande,Alta,No aceptable
+Alto,Alto,3,4,Pequeño,Baja,No aceptable
+Alto,Alto,3,4,Pequeño,Media,No aceptable
+Alto,Alto,3,4,Pequeño,Alta,Aceptable
+Alto,Alto,3,4,Mediano,Baja,No aceptable
+Alto,Alto,3,4,Mediano,Media,No aceptable
+Alto,Alto,3,4,Mediano,Alta,Aceptable
+Alto,Alto,3,4,Grande,Baja,No aceptable
+Alto,Alto,3,4,Grande,Media,Aceptable
+Alto,Alto,3,4,Grande,Alta,Aceptable
+Alto,Alto,3,más,Pequeño,Baja,No aceptable
+Alto,Alto,3,más,Pequeño,Media,No aceptable
+Alto,Alto,3,más,Pequeño,Alta,Aceptable
+Alto,Alto,3,más,Mediano,Baja,No aceptable
+Alto,Alto,3,más,Mediano,Media,Aceptable
+Alto,Alto,3,más,Mediano,Alta,Aceptable
+Alto,Alto,3,más,Grande,Baja,No aceptable
+Alto,Alto,3,más,Grande,Media,Aceptable
+Alto,Alto,3,más,Grande,Alta,Aceptable
+Alto,Alto,4,2,Pequeño,Baja,No aceptable
+Alto,Alto,4,2,Pequeño,Media,No aceptable
+Alto,Alto,4,2,Pequeño,Alta,No aceptable
+Alto,Alto,4,2,Mediano,Baja,No aceptable
+Alto,Alto,4,2,Mediano,Media,No aceptable
+Alto,Alto,4,2,Mediano,Alta,No aceptable
+Alto,Alto,4,2,Grande,Baja,No aceptable
+Alto,Alto,4,2,Grande,Media,No aceptable
+Alto,Alto,4,2,Grande,Alta,No aceptable
+Alto,Alto,4,4,Pequeño,Baja,No aceptable
+Alto,Alto,4,4,Pequeño,Media,No aceptable
+Alto,Alto,4,4,Pequeño,Alta,Aceptable
+Alto,Alto,4,4,Mediano,Baja,No aceptable
+Alto,Alto,4,4,Mediano,Media,Aceptable
+Alto,Alto,4,4,Mediano,Alta,Aceptable
+Alto,Alto,4,4,Grande,Baja,No aceptable
+Alto,Alto,4,4,Grande,Media,Aceptable
+Alto,Alto,4,4,Grande,Alta,Aceptable
+Alto,Alto,4,más,Pequeño,Baja,No aceptable
+Alto,Alto,4,más,Pequeño,Media,No aceptable
+Alto,Alto,4,más,Pequeño,Alta,Aceptable
+Alto,Alto,4,más,Mediano,Baja,No aceptable
+Alto,Alto,4,más,Mediano,Media,Aceptable
+Alto,Alto,4,más,Mediano,Alta,Aceptable
+Alto,Alto,4,más,Grande,Baja,No aceptable
+Alto,Alto,4,más,Grande,Media,Aceptable
+Alto,Alto,4,más,Grande,Alta,Aceptable
+Alto,Alto,5 o más,2,Pequeño,Baja,No aceptable
+Alto,Alto,5 o más,2,Pequeño,Media,No aceptable
+Alto,Alto,5 o más,2,Pequeño,Alta,No aceptable
+Alto,Alto,5 o más,2,Mediano,Baja,No aceptable
+Alto,Alto,5 o más,2,Mediano,Media,No aceptable
+Alto,Alto,5 o más,2,Mediano,Alta,No aceptable
+Alto,Alto,5 o más,2,Grande,Baja,No aceptable
+Alto,Alto,5 o más,2,Grande,Media,No aceptable
+Alto,Alto,5 o más,2,Grande,Alta,No aceptable
+Alto,Alto,5 o más,4,Pequeño,Baja,No aceptable
+Alto,Alto,5 o más,4,Pequeño,Media,No aceptable
+Alto,Alto,5 o más,4,Pequeño,Alta,Aceptable
+Alto,Alto,5 o más,4,Mediano,Baja,No aceptable
+Alto,Alto,5 o más,4,Mediano,Media,Aceptable
+Alto,Alto,5 o más,4,Mediano,Alta,Aceptable
+Alto,Alto,5 o más,4,Grande,Baja,No aceptable
+Alto,Alto,5 o más,4,Grande,Media,Aceptable
+Alto,Alto,5 o más,4,Grande,Alta,Aceptable
+Alto,Alto,5 o más,más,Pequeño,Baja,No aceptable
+Alto,Alto,5 o más,más,Pequeño,Media,No aceptable
+Alto,Alto,5 o más,más,Pequeño,Alta,Aceptable
+Alto,Alto,5 o más,más,Mediano,Baja,No aceptable
+Alto,Alto,5 o más,más,Mediano,Media,Aceptable
+Alto,Alto,5 o más,más,Mediano,Alta,Aceptable
+Alto,Alto,5 o más,más,Grande,Baja,No aceptable
+Alto,Alto,5 o más,más,Grande,Media,Aceptable
+Alto,Alto,5 o más,más,Grande,Alta,Aceptable
+Alto,Medio,2,2,Pequeño,Baja,No aceptable
+Alto,Medio,2,2,Pequeño,Media,No aceptable
+Alto,Medio,2,2,Pequeño,Alta,No aceptable
+Alto,Medio,2,2,Mediano,Baja,No aceptable
+Alto,Medio,2,2,Mediano,Media,No aceptable
+Alto,Medio,2,2,Mediano,Alta,No aceptable
+Alto,Medio,2,2,Grande,Baja,No aceptable
+Alto,Medio,2,2,Grande,Media,No aceptable
+Alto,Medio,2,2,Grande,Alta,No aceptable
+Alto,Medio,2,4,Pequeño,Baja,No aceptable
+Alto,Medio,2,4,Pequeño,Media,No aceptable
+Alto,Medio,2,4,Pequeño,Alta,Aceptable
+Alto,Medio,2,4,Mediano,Baja,No aceptable
+Alto,Medio,2,4,Mediano,Media,No aceptable
+Alto,Medio,2,4,Mediano,Alta,Aceptable
+Alto,Medio,2,4,Grande,Baja,No aceptable
+Alto,Medio,2,4,Grande,Media,Aceptable
+Alto,Medio,2,4,Grande,Alta,Aceptable
+Alto,Medio,2,más,Pequeño,Baja,No aceptable
+Alto,Medio,2,más,Pequeño,Media,No aceptable
+Alto,Medio,2,más,Pequeño,Alta,No aceptable
+Alto,Medio,2,más,Mediano,Baja,No aceptable
+Alto,Medio,2,más,Mediano,Media,No aceptable
+Alto,Medio,2,más,Mediano,Alta,Aceptable
+Alto,Medio,2,más,Grande,Baja,No aceptable
+Alto,Medio,2,más,Grande,Media,Aceptable
+Alto,Medio,2,más,Grande,Alta,Aceptable
+Alto,Medio,3,2,Pequeño,Baja,No aceptable
+Alto,Medio,3,2,Pequeño,Media,No aceptable
+Alto,Medio,3,2,Pequeño,Alta,No aceptable
+Alto,Medio,3,2,Mediano,Baja,No aceptable
+Alto,Medio,3,2,Mediano,Media,No aceptable
+Alto,Medio,3,2,Mediano,Alta,No aceptable
+Alto,Medio,3,2,Grande,Baja,No aceptable
+Alto,Medio,3,2,Grande,Media,No aceptable
+Alto,Medio,3,2,Grande,Alta,No aceptable
+Alto,Medio,3,4,Pequeño,Baja,No aceptable
+Alto,Medio,3,4,Pequeño,Media,No aceptable
+Alto,Medio,3,4,Pequeño,Alta,Aceptable
+Alto,Medio,3,4,Mediano,Baja,No aceptable
+Alto,Medio,3,4,Mediano,Media,No aceptable
+Alto,Medio,3,4,Mediano,Alta,Aceptable
+Alto,Medio,3,4,Grande,Baja,No aceptable
+Alto,Medio,3,4,Grande,Media,Aceptable
+Alto,Medio,3,4,Grande,Alta,Aceptable
+Alto,Medio,3,más,Pequeño,Baja,No aceptable
+Alto,Medio,3,más,Pequeño,Media,No aceptable
+Alto,Medio,3,más,Pequeño,Alta,Aceptable
+Alto,Medio,3,más,Mediano,Baja,No aceptable
+Alto,Medio,3,más,Mediano,Media,Aceptable
+Alto,Medio,3,más,Mediano,Alta,Aceptable
+Alto,Medio,3,más,Grande,Baja,No aceptable
+Alto,Medio,3,más,Grande,Media,Aceptable
+Alto,Medio,3,más,Grande,Alta,Aceptable
+Alto,Medio,4,2,Pequeño,Baja,No aceptable
+Alto,Medio,4,2,Pequeño,Media,No aceptable
+Alto,Medio,4,2,Pequeño,Alta,No aceptable
+Alto,Medio,4,2,Mediano,Baja,No aceptable
+Alto,Medio,4,2,Mediano,Media,No aceptable
+Alto,Medio,4,2,Mediano,Alta,No aceptable
+Alto,Medio,4,2,Grande,Baja,No aceptable
+Alto,Medio,4,2,Grande,Media,No aceptable
+Alto,Medio,4,2,Grande,Alta,No aceptable
+Alto,Medio,4,4,Pequeño,Baja,No aceptable
+Alto,Medio,4,4,Pequeño,Media,No aceptable
+Alto,Medio,4,4,Pequeño,Alta,Aceptable
+Alto,Medio,4,4,Mediano,Baja,No aceptable
+Alto,Medio,4,4,Mediano,Media,Aceptable
+Alto,Medio,4,4,Mediano,Alta,Aceptable
+Alto,Medio,4,4,Grande,Baja,No aceptable
+Alto,Medio,4,4,Grande,Media,Aceptable
+Alto,Medio,4,4,Grande,Alta,Aceptable
+Alto,Medio,4,más,Pequeño,Baja,No aceptable
+Alto,Medio,4,más,Pequeño,Media,No aceptable
+Alto,Medio,4,más,Pequeño,Alta,Aceptable
+Alto,Medio,4,más,Mediano,Baja,No aceptable
+Alto,Medio,4,más,Mediano,Media,Aceptable
+Alto,Medio,4,más,Mediano,Alta,Aceptable
+Alto,Medio,4,más,Grande,Baja,No aceptable
+Alto,Medio,4,más,Grande,Media,Aceptable
+Alto,Medio,4,más,Grande,Alta,Aceptable
+Alto,Medio,5 o más,2,Pequeño,Baja,No aceptable
+Alto,Medio,5 o más,2,Pequeño,Media,No aceptable
+Alto,Medio,5 o más,2,Pequeño,Alta,No aceptable
+Alto,Medio,5 o más,2,Mediano,Baja,No aceptable
+Alto,Medio,5 o más,2,Mediano,Media,No aceptable
+Alto,Medio,5 o más,2,Mediano,Alta,No aceptable
+Alto,Medio,5 o más,2,Grande,Baja,No aceptable
+Alto,Medio,5 o más,2,Grande,Media,No aceptable
+Alto,Medio,5 o más,2,Grande,Alta,No aceptable
+Alto,Medio,5 o más,4,Pequeño,Baja,No aceptable
+Alto,Medio,5 o más,4,Pequeño,Media,No aceptable
+Alto,Medio,5 o más,4,Pequeño,Alta,Aceptable
+Alto,Medio,5 o más,4,Mediano,Baja,No aceptable
+Alto,Medio,5 o más,4,Mediano,Media,Aceptable
+Alto,Medio,5 o más,4,Mediano,Alta,Aceptable
+Alto,Medio,5 o más,4,Grande,Baja,No aceptable
+Alto,Medio,5 o más,4,Grande,Media,Aceptable
+Alto,Medio,5 o más,4,Grande,Alta,Aceptable
+Alto,Medio,5 o más,más,Pequeño,Baja,No aceptable
+Alto,Medio,5 o más,más,Pequeño,Media,No aceptable
+Alto,Medio,5 o más,más,Pequeño,Alta,Aceptable
+Alto,Medio,5 o más,más,Mediano,Baja,No aceptable
+Alto,Medio,5 o más,más,Mediano,Media,Aceptable
+Alto,Medio,5 o más,más,Mediano,Alta,Aceptable
+Alto,Medio,5 o más,más,Grande,Baja,No aceptable
+Alto,Medio,5 o más,más,Grande,Media,Aceptable
+Alto,Medio,5 o más,más,Grande,Alta,Aceptable
+Alto,Bajo,2,2,Pequeño,Baja,No aceptable
+Alto,Bajo,2,2,Pequeño,Media,No aceptable
+Alto,Bajo,2,2,Pequeño,Alta,No aceptable
+Alto,Bajo,2,2,Mediano,Baja,No aceptable
+Alto,Bajo,2,2,Mediano,Media,No aceptable
+Alto,Bajo,2,2,Mediano,Alta,No aceptable
+Alto,Bajo,2,2,Grande,Baja,No aceptable
+Alto,Bajo,2,2,Grande,Media,No aceptable
+Alto,Bajo,2,2,Grande,Alta,No aceptable
+Alto,Bajo,2,4,Pequeño,Baja,No aceptable
+Alto,Bajo,2,4,Pequeño,Media,No aceptable
+Alto,Bajo,2,4,Pequeño,Alta,Aceptable
+Alto,Bajo,2,4,Mediano,Baja,No aceptable
+Alto,Bajo,2,4,Mediano,Media,No aceptable
+Alto,Bajo,2,4,Mediano,Alta,Aceptable
+Alto,Bajo,2,4,Grande,Baja,No aceptable
+Alto,Bajo,2,4,Grande,Media,Aceptable
+Alto,Bajo,2,4,Grande,Alta,Aceptable
+Alto,Bajo,2,más,Pequeño,Baja,No aceptable
+Alto,Bajo,2,más,Pequeño,Media,No aceptable
+Alto,Bajo,2,más,Pequeño,Alta,No aceptable
+Alto,Bajo,2,más,Mediano,Baja,No aceptable
+Alto,Bajo,2,más,Mediano,Media,No aceptable
+Alto,Bajo,2,más,Mediano,Alta,Aceptable
+Alto,Bajo,2,más,Grande,Baja,No aceptable
+Alto,Bajo,2,más,Grande,Media,Aceptable
+Alto,Bajo,2,más,Grande,Alta,Aceptable
+Alto,Bajo,3,2,Pequeño,Baja,No aceptable
+Alto,Bajo,3,2,Pequeño,Media,No aceptable
+Alto,Bajo,3,2,Pequeño,Alta,No aceptable
+Alto,Bajo,3,2,Mediano,Baja,No aceptable
+Alto,Bajo,3,2,Mediano,Media,No aceptable
+Alto,Bajo,3,2,Mediano,Alta,No aceptable
+Alto,Bajo,3,2,Grande,Baja,No aceptable
+Alto,Bajo,3,2,Grande,Media,No aceptable
+Alto,Bajo,3,2,Grande,Alta,No aceptable
+Alto,Bajo,3,4,Pequeño,Baja,No aceptable
+Alto,Bajo,3,4,Pequeño,Media,No aceptable
+Alto,Bajo,3,4,Pequeño,Alta,Aceptable
+Alto,Bajo,3,4,Mediano,Baja,No aceptable
+Alto,Bajo,3,4,Mediano,Media,No aceptable
+Alto,Bajo,3,4,Mediano,Alta,Aceptable
+Alto,Bajo,3,4,Grande,Baja,No aceptable
+Alto,Bajo,3,4,Grande,Media,Aceptable
+Alto,Bajo,3,4,Grande,Alta,Aceptable
+Alto,Bajo,3,más,Pequeño,Baja,No aceptable
+Alto,Bajo,3,más,Pequeño,Media,No aceptable
+Alto,Bajo,3,más,Pequeño,Alta,Aceptable
+Alto,Bajo,3,más,Mediano,Baja,No aceptable
+Alto,Bajo,3,más,Mediano,Media,Aceptable
+Alto,Bajo,3,más,Mediano,Alta,Aceptable
+Alto,Bajo,3,más,Grande,Baja,No aceptable
+Alto,Bajo,3,más,Grande,Media,Aceptable
+Alto,Bajo,3,más,Grande,Alta,Aceptable
+Alto,Bajo,4,2,Pequeño,Baja,No aceptable
+Alto,Bajo,4,2,Pequeño,Media,No aceptable
+Alto,Bajo,4,2,Pequeño,Alta,No aceptable
+Alto,Bajo,4,2,Mediano,Baja,No aceptable
+Alto,Bajo,4,2,Mediano,Media,No aceptable
+Alto,Bajo,4,2,Mediano,Alta,No aceptable
+Alto,Bajo,4,2,Grande,Baja,No aceptable
+Alto,Bajo,4,2,Grande,Media,No aceptable
+Alto,Bajo,4,2,Grande,Alta,No aceptable
+Alto,Bajo,4,4,Pequeño,Baja,No aceptable
+Alto,Bajo,4,4,Pequeño,Media,No aceptable
+Alto,Bajo,4,4,Pequeño,Alta,Aceptable
+Alto,Bajo,4,4,Mediano,Baja,No aceptable
+Alto,Bajo,4,4,Mediano,Media,Aceptable
+Alto,Bajo,4,4,Mediano,Alta,Aceptable
+Alto,Bajo,4,4,Grande,Baja,No aceptable
+Alto,Bajo,4,4,Grande,Media,Aceptable
+Alto,Bajo,4,4,Grande,Alta,Aceptable
+Alto,Bajo,4,más,Pequeño,Baja,No aceptable
+Alto,Bajo,4,más,Pequeño,Media,No aceptable
+Alto,Bajo,4,más,Pequeño,Alta,Aceptable
+Alto,Bajo,4,más,Mediano,Baja,No aceptable
+Alto,Bajo,4,más,Mediano,Media,Aceptable
+Alto,Bajo,4,más,Mediano,Alta,Aceptable
+Alto,Bajo,4,más,Grande,Baja,No aceptable
+Alto,Bajo,4,más,Grande,Media,Aceptable
+Alto,Bajo,4,más,Grande,Alta,Aceptable
+Alto,Bajo,5 o más,2,Pequeño,Baja,No aceptable
+Alto,Bajo,5 o más,2,Pequeño,Media,No aceptable
+Alto,Bajo,5 o más,2,Pequeño,Alta,No aceptable
+Alto,Bajo,5 o más,2,Mediano,Baja,No aceptable
+Alto,Bajo,5 o más,2,Mediano,Media,No aceptable
+Alto,Bajo,5 o más,2,Mediano,Alta,No aceptable
+Alto,Bajo,5 o más,2,Grande,Baja,No aceptable
+Alto,Bajo,5 o más,2,Grande,Media,No aceptable
+Alto,Bajo,5 o más,2,Grande,Alta,No aceptable
+Alto,Bajo,5 o más,4,Pequeño,Baja,No aceptable
+Alto,Bajo,5 o más,4,Pequeño,Media,No aceptable
+Alto,Bajo,5 o más,4,Pequeño,Alta,Aceptable
+Alto,Bajo,5 o más,4,Mediano,Baja,No aceptable
+Alto,Bajo,5 o más,4,Mediano,Media,Aceptable
+Alto,Bajo,5 o más,4,Mediano,Alta,Aceptable
+Alto,Bajo,5 o más,4,Grande,Baja,No aceptable
+Alto,Bajo,5 o más,4,Grande,Media,Aceptable
+Alto,Bajo,5 o más,4,Grande,Alta,Aceptable
+Alto,Bajo,5 o más,más,Pequeño,Baja,No aceptable
+Alto,Bajo,5 o más,más,Pequeño,Media,No aceptable
+Alto,Bajo,5 o más,más,Pequeño,Alta,Aceptable
+Alto,Bajo,5 o más,más,Mediano,Baja,No aceptable
+Alto,Bajo,5 o más,más,Mediano,Media,Aceptable
+Alto,Bajo,5 o más,más,Mediano,Alta,Aceptable
+Alto,Bajo,5 o más,más,Grande,Baja,No aceptable
+Alto,Bajo,5 o más,más,Grande,Media,Aceptable
+Alto,Bajo,5 o más,más,Grande,Alta,Aceptable
+Medio,Muy alto,2,2,Pequeño,Baja,No aceptable
+Medio,Muy alto,2,2,Pequeño,Media,No aceptable
+Medio,Muy alto,2,2,Pequeño,Alta,No aceptable
+Medio,Muy alto,2,2,Mediano,Baja,No aceptable
+Medio,Muy alto,2,2,Mediano,Media,No aceptable
+Medio,Muy alto,2,2,Mediano,Alta,No aceptable
+Medio,Muy alto,2,2,Grande,Baja,No aceptable
+Medio,Muy alto,2,2,Grande,Media,No aceptable
+Medio,Muy alto,2,2,Grande,Alta,No aceptable
+Medio,Muy alto,2,4,Pequeño,Baja,No aceptable
+Medio,Muy alto,2,4,Pequeño,Media,No aceptable
+Medio,Muy alto,2,4,Pequeño,Alta,Aceptable
+Medio,Muy alto,2,4,Mediano,Baja,No aceptable
+Medio,Muy alto,2,4,Mediano,Media,No aceptable
+Medio,Muy alto,2,4,Mediano,Alta,Aceptable
+Medio,Muy alto,2,4,Grande,Baja,No aceptable
+Medio,Muy alto,2,4,Grande,Media,Aceptable
+Medio,Muy alto,2,4,Grande,Alta,Aceptable
+Medio,Muy alto,2,más,Pequeño,Baja,No aceptable
+Medio,Muy alto,2,más,Pequeño,Media,No aceptable
+Medio,Muy alto,2,más,Pequeño,Alta,No aceptable
+Medio,Muy alto,2,más,Mediano,Baja,No aceptable
+Medio,Muy alto,2,más,Mediano,Media,No aceptable
+Medio,Muy alto,2,más,Mediano,Alta,Aceptable
+Medio,Muy alto,2,más,Grande,Baja,No aceptable
+Medio,Muy alto,2,más,Grande,Media,Aceptable
+Medio,Muy alto,2,más,Grande,Alta,Aceptable
+Medio,Muy alto,3,2,Pequeño,Baja,No aceptable
+Medio,Muy alto,3,2,Pequeño,Media,No aceptable
+Medio,Muy alto,3,2,Pequeño,Alta,No aceptable
+Medio,Muy alto,3,2,Mediano,Baja,No aceptable
+Medio,Muy alto,3,2,Mediano,Media,No aceptable
+Medio,Muy alto,3,2,Mediano,Alta,No aceptable
+Medio,Muy alto,3,2,Grande,Baja,No aceptable
+Medio,Muy alto,3,2,Grande,Media,No aceptable
+Medio,Muy alto,3,2,Grande,Alta,No aceptable
+Medio,Muy alto,3,4,Pequeño,Baja,No aceptable
+Medio,Muy alto,3,4,Pequeño,Media,No aceptable
+Medio,Muy alto,3,4,Pequeño,Alta,Aceptable
+Medio,Muy alto,3,4,Mediano,Baja,No aceptable
+Medio,Muy alto,3,4,Mediano,Media,No aceptable
+Medio,Muy alto,3,4,Mediano,Alta,Aceptable
+Medio,Muy alto,3,4,Grande,Baja,No aceptable
+Medio,Muy alto,3,4,Grande,Media,Aceptable
+Medio,Muy alto,3,4,Grande,Alta,Aceptable
+Medio,Muy alto,3,más,Pequeño,Baja,No aceptable
+Medio,Muy alto,3,más,Pequeño,Media,No aceptable
+Medio,Muy alto,3,más,Pequeño,Alta,Aceptable
+Medio,Muy alto,3,más,Mediano,Baja,No aceptable
+Medio,Muy alto,3,más,Mediano,Media,Aceptable
+Medio,Muy alto,3,más,Mediano,Alta,Aceptable
+Medio,Muy alto,3,más,Grande,Baja,No aceptable
+Medio,Muy alto,3,más,Grande,Media,Aceptable
+Medio,Muy alto,3,más,Grande,Alta,Aceptable
+Medio,Muy alto,4,2,Pequeño,Baja,No aceptable
+Medio,Muy alto,4,2,Pequeño,Media,No aceptable
+Medio,Muy alto,4,2,Pequeño,Alta,No aceptable
+Medio,Muy alto,4,2,Mediano,Baja,No aceptable
+Medio,Muy alto,4,2,Mediano,Media,No aceptable
+Medio,Muy alto,4,2,Mediano,Alta,No aceptable
+Medio,Muy alto,4,2,Grande,Baja,No aceptable
+Medio,Muy alto,4,2,Grande,Media,No aceptable
+Medio,Muy alto,4,2,Grande,Alta,No aceptable
+Medio,Muy alto,4,4,Pequeño,Baja,No aceptable
+Medio,Muy alto,4,4,Pequeño,Media,No aceptable
+Medio,Muy alto,4,4,Pequeño,Alta,Aceptable
+Medio,Muy alto,4,4,Mediano,Baja,No aceptable
+Medio,Muy alto,4,4,Mediano,Media,Aceptable
+Medio,Muy alto,4,4,Mediano,Alta,Aceptable
+Medio,Muy alto,4,4,Grande,Baja,No aceptable
+Medio,Muy alto,4,4,Grande,Media,Aceptable
+Medio,Muy alto,4,4,Grande,Alta,Aceptable
+Medio,Muy alto,4,más,Pequeño,Baja,No aceptable
+Medio,Muy alto,4,más,Pequeño,Media,No aceptable
+Medio,Muy alto,4,más,Pequeño,Alta,Aceptable
+Medio,Muy alto,4,más,Mediano,Baja,No aceptable
+Medio,Muy alto,4,más,Mediano,Media,Aceptable
+Medio,Muy alto,4,más,Mediano,Alta,Aceptable
+Medio,Muy alto,4,más,Grande,Baja,No aceptable
+Medio,Muy alto,4,más,Grande,Media,Aceptable
+Medio,Muy alto,4,más,Grande,Alta,Aceptable
+Medio,Muy alto,5 o más,2,Pequeño,Baja,No aceptable
+Medio,Muy alto,5 o más,2,Pequeño,Media,No aceptable
+Medio,Muy alto,5 o más,2,Pequeño,Alta,No aceptable
+Medio,Muy alto,5 o más,2,Mediano,Baja,No aceptable
+Medio,Muy alto,5 o más,2,Mediano,Media,No aceptable
+Medio,Muy alto,5 o más,2,Mediano,Alta,No aceptable
+Medio,Muy alto,5 o más,2,Grande,Baja,No aceptable
+Medio,Muy alto,5 o más,2,Grande,Media,No aceptable
+Medio,Muy alto,5 o más,2,Grande,Alta,No aceptable
+Medio,Muy alto,5 o más,4,Pequeño,Baja,No aceptable
+Medio,Muy alto,5 o más,4,Pequeño,Media,No aceptable
+Medio,Muy alto,5 o más,4,Pequeño,Alta,Aceptable
+Medio,Muy alto,5 o más,4,Mediano,Baja,No aceptable
+Medio,Muy alto,5 o más,4,Mediano,Media,Aceptable
+Medio,Muy alto,5 o más,4,Mediano,Alta,Aceptable
+Medio,Muy alto,5 o más,4,Grande,Baja,No aceptable
+Medio,Muy alto,5 o más,4,Grande,Media,Aceptable
+Medio,Muy alto,5 o más,4,Grande,Alta,Aceptable
+Medio,Muy alto,5 o más,más,Pequeño,Baja,No aceptable
+Medio,Muy alto,5 o más,más,Pequeño,Media,No aceptable
+Medio,Muy alto,5 o más,más,Pequeño,Alta,Aceptable
+Medio,Muy alto,5 o más,más,Mediano,Baja,No aceptable
+Medio,Muy alto,5 o más,más,Mediano,Media,Aceptable
+Medio,Muy alto,5 o más,más,Mediano,Alta,Aceptable
+Medio,Muy alto,5 o más,más,Grande,Baja,No aceptable
+Medio,Muy alto,5 o más,más,Grande,Media,Aceptable
+Medio,Muy alto,5 o más,más,Grande,Alta,Aceptable
+Medio,Alto,2,2,Pequeño,Baja,No aceptable
+Medio,Alto,2,2,Pequeño,Media,No aceptable
+Medio,Alto,2,2,Pequeño,Alta,No aceptable
+Medio,Alto,2,2,Mediano,Baja,No aceptable
+Medio,Alto,2,2,Mediano,Media,No aceptable
+Medio,Alto,2,2,Mediano,Alta,No aceptable
+Medio,Alto,2,2,Grande,Baja,No aceptable
+Medio,Alto,2,2,Grande,Media,No aceptable
+Medio,Alto,2,2,Grande,Alta,No aceptable
+Medio,Alto,2,4,Pequeño,Baja,No aceptable
+Medio,Alto,2,4,Pequeño,Media,No aceptable
+Medio,Alto,2,4,Pequeño,Alta,Aceptable
+Medio,Alto,2,4,Mediano,Baja,No aceptable
+Medio,Alto,2,4,Mediano,Media,No aceptable
+Medio,Alto,2,4,Mediano,Alta,Aceptable
+Medio,Alto,2,4,Grande,Baja,No aceptable
+Medio,Alto,2,4,Grande,Media,Aceptable
+Medio,Alto,2,4,Grande,Alta,Aceptable
+Medio,Alto,2,más,Pequeño,Baja,No aceptable
+Medio,Alto,2,más,Pequeño,Media,No aceptable
+Medio,Alto,2,más,Pequeño,Alta,No aceptable
+Medio,Alto,2,más,Mediano,Baja,No aceptable
+Medio,Alto,2,más,Mediano,Media,No aceptable
+Medio,Alto,2,más,Mediano,Alta,Aceptable
+Medio,Alto,2,más,Grande,Baja,No aceptable
+Medio,Alto,2,más,Grande,Media,Aceptable
+Medio,Alto,2,más,Grande,Alta,Aceptable
+Medio,Alto,3,2,Pequeño,Baja,No aceptable
+Medio,Alto,3,2,Pequeño,Media,No aceptable
+Medio,Alto,3,2,Pequeño,Alta,No aceptable
+Medio,Alto,3,2,Mediano,Baja,No aceptable
+Medio,Alto,3,2,Mediano,Media,No aceptable
+Medio,Alto,3,2,Mediano,Alta,No aceptable
+Medio,Alto,3,2,Grande,Baja,No aceptable
+Medio,Alto,3,2,Grande,Media,No aceptable
+Medio,Alto,3,2,Grande,Alta,No aceptable
+Medio,Alto,3,4,Pequeño,Baja,No aceptable
+Medio,Alto,3,4,Pequeño,Media,No aceptable
+Medio,Alto,3,4,Pequeño,Alta,Aceptable
+Medio,Alto,3,4,Mediano,Baja,No aceptable
+Medio,Alto,3,4,Mediano,Media,No aceptable
+Medio,Alto,3,4,Mediano,Alta,Aceptable
+Medio,Alto,3,4,Grande,Baja,No aceptable
+Medio,Alto,3,4,Grande,Media,Aceptable
+Medio,Alto,3,4,Grande,Alta,Aceptable
+Medio,Alto,3,más,Pequeño,Baja,No aceptable
+Medio,Alto,3,más,Pequeño,Media,No aceptable
+Medio,Alto,3,más,Pequeño,Alta,Aceptable
+Medio,Alto,3,más,Mediano,Baja,No aceptable
+Medio,Alto,3,más,Mediano,Media,Aceptable
+Medio,Alto,3,más,Mediano,Alta,Aceptable
+Medio,Alto,3,más,Grande,Baja,No aceptable
+Medio,Alto,3,más,Grande,Media,Aceptable
+Medio,Alto,3,más,Grande,Alta,Aceptable
+Medio,Alto,4,2,Pequeño,Baja,No aceptable
+Medio,Alto,4,2,Pequeño,Media,No aceptable
+Medio,Alto,4,2,Pequeño,Alta,No aceptable
+Medio,Alto,4,2,Mediano,Baja,No aceptable
+Medio,Alto,4,2,Mediano,Media,No aceptable
+Medio,Alto,4,2,Mediano,Alta,No aceptable
+Medio,Alto,4,2,Grande,Baja,No aceptable
+Medio,Alto,4,2,Grande,Media,No aceptable
+Medio,Alto,4,2,Grande,Alta,No aceptable
+Medio,Alto,4,4,Pequeño,Baja,No aceptable
+Medio,Alto,4,4,Pequeño,Media,No aceptable
+Medio,Alto,4,4,Pequeño,Alta,Aceptable
+Medio,Alto,4,4,Mediano,Baja,No aceptable
+Medio,Alto,4,4,Mediano,Media,Aceptable
+Medio,Alto,4,4,Mediano,Alta,Aceptable
+Medio,Alto,4,4,Grande,Baja,No aceptable
+Medio,Alto,4,4,Grande,Media,Aceptable
+Medio,Alto,4,4,Grande,Alta,Aceptable
+Medio,Alto,4,más,Pequeño,Baja,No aceptable
+Medio,Alto,4,más,Pequeño,Media,No aceptable
+Medio,Alto,4,más,Pequeño,Alta,Aceptable
+Medio,Alto,4,más,Mediano,Baja,No aceptable
+Medio,Alto,4,más,Mediano,Media,Aceptable
+Medio,Alto,4,más,Mediano,Alta,Aceptable
+Medio,Alto,4,más,Grande,Baja,No aceptable
+Medio,Alto,4,más,Grande,Media,Aceptable
+Medio,Alto,4,más,Grande,Alta,Aceptable
+Medio,Alto,5 o más,2,Pequeño,Baja,No aceptable
+Medio,Alto,5 o más,2,Pequeño,Media,No aceptable
+Medio,Alto,5 o más,2,Pequeño,Alta,No aceptable
+Medio,Alto,5 o más,2,Mediano,Baja,No aceptable
+Medio,Alto,5 o más,2,Mediano,Media,No aceptable
+Medio,Alto,5 o más,2,Mediano,Alta,No aceptable
+Medio,Alto,5 o más,2,Grande,Baja,No aceptable
+Medio,Alto,5 o más,2,Grande,Media,No aceptable
+Medio,Alto,5 o más,2,Grande,Alta,No aceptable
+Medio,Alto,5 o más,4,Pequeño,Baja,No aceptable
+Medio,Alto,5 o más,4,Pequeño,Media,No aceptable
+Medio,Alto,5 o más,4,Pequeño,Alta,Aceptable
+Medio,Alto,5 o más,4,Mediano,Baja,No aceptable
+Medio,Alto,5 o más,4,Mediano,Media,Aceptable
+Medio,Alto,5 o más,4,Mediano,Alta,Aceptable
+Medio,Alto,5 o más,4,Grande,Baja,No aceptable
+Medio,Alto,5 o más,4,Grande,Media,Aceptable
+Medio,Alto,5 o más,4,Grande,Alta,Aceptable
+Medio,Alto,5 o más,más,Pequeño,Baja,No aceptable
+Medio,Alto,5 o más,más,Pequeño,Media,No aceptable
+Medio,Alto,5 o más,más,Pequeño,Alta,Aceptable
+Medio,Alto,5 o más,más,Mediano,Baja,No aceptable
+Medio,Alto,5 o más,más,Mediano,Media,Aceptable
+Medio,Alto,5 o más,más,Mediano,Alta,Aceptable
+Medio,Alto,5 o más,más,Grande,Baja,No aceptable
+Medio,Alto,5 o más,más,Grande,Media,Aceptable
+Medio,Alto,5 o más,más,Grande,Alta,Aceptable
+Medio,Medio,2,2,Pequeño,Baja,No aceptable
+Medio,Medio,2,2,Pequeño,Media,No aceptable
+Medio,Medio,2,2,Pequeño,Alta,No aceptable
+Medio,Medio,2,2,Mediano,Baja,No aceptable
+Medio,Medio,2,2,Mediano,Media,No aceptable
+Medio,Medio,2,2,Mediano,Alta,No aceptable
+Medio,Medio,2,2,Grande,Baja,No aceptable
+Medio,Medio,2,2,Grande,Media,No aceptable
+Medio,Medio,2,2,Grande,Alta,No aceptable
+Medio,Medio,2,4,Pequeño,Baja,No aceptable
+Medio,Medio,2,4,Pequeño,Media,Aceptable
+Medio,Medio,2,4,Pequeño,Alta,Aceptable
+Medio,Medio,2,4,Mediano,Baja,No aceptable
+Medio,Medio,2,4,Mediano,Media,Aceptable
+Medio,Medio,2,4,Mediano,Alta,Aceptable
+Medio,Medio,2,4,Grande,Baja,No aceptable
+Medio,Medio,2,4,Grande,Media,Aceptable
+Medio,Medio,2,4,Grande,Alta,Muy buena
+Medio,Medio,2,más,Pequeño,Baja,No aceptable
+Medio,Medio,2,más,Pequeño,Media,No aceptable
+Medio,Medio,2,más,Pequeño,Alta,No aceptable
+Medio,Medio,2,más,Mediano,Baja,No aceptable
+Medio,Medio,2,más,Mediano,Media,Aceptable
+Medio,Medio,2,más,Mediano,Alta,Aceptable
+Medio,Medio,2,más,Grande,Baja,No aceptable
+Medio,Medio,2,más,Grande,Media,Aceptable
+Medio,Medio,2,más,Grande,Alta,Muy buena
+Medio,Medio,3,2,Pequeño,Baja,No aceptable
+Medio,Medio,3,2,Pequeño,Media,No aceptable
+Medio,Medio,3,2,Pequeño,Alta,No aceptable
+Medio,Medio,3,2,Mediano,Baja,No aceptable
+Medio,Medio,3,2,Mediano,Media,No aceptable
+Medio,Medio,3,2,Mediano,Alta,No aceptable
+Medio,Medio,3,2,Grande,Baja,No aceptable
+Medio,Medio,3,2,Grande,Media,No aceptable
+Medio,Medio,3,2,Grande,Alta,No aceptable
+Medio,Medio,3,4,Pequeño,Baja,No aceptable
+Medio,Medio,3,4,Pequeño,Media,Aceptable
+Medio,Medio,3,4,Pequeño,Alta,Aceptable
+Medio,Medio,3,4,Mediano,Baja,No aceptable
+Medio,Medio,3,4,Mediano,Media,Aceptable
+Medio,Medio,3,4,Mediano,Alta,Aceptable
+Medio,Medio,3,4,Grande,Baja,No aceptable
+Medio,Medio,3,4,Grande,Media,Aceptable
+Medio,Medio,3,4,Grande,Alta,Muy buena
+Medio,Medio,3,más,Pequeño,Baja,No aceptable
+Medio,Medio,3,más,Pequeño,Media,Aceptable
+Medio,Medio,3,más,Pequeño,Alta,Aceptable
+Medio,Medio,3,más,Mediano,Baja,No aceptable
+Medio,Medio,3,más,Mediano,Media,Aceptable
+Medio,Medio,3,más,Mediano,Alta,Muy buena
+Medio,Medio,3,más,Grande,Baja,No aceptable
+Medio,Medio,3,más,Grande,Media,Aceptable
+Medio,Medio,3,más,Grande,Alta,Muy buena
+Medio,Medio,4,2,Pequeño,Baja,No aceptable
+Medio,Medio,4,2,Pequeño,Media,No aceptable
+Medio,Medio,4,2,Pequeño,Alta,No aceptable
+Medio,Medio,4,2,Mediano,Baja,No aceptable
+Medio,Medio,4,2,Mediano,Media,No aceptable
+Medio,Medio,4,2,Mediano,Alta,No aceptable
+Medio,Medio,4,2,Grande,Baja,No aceptable
+Medio,Medio,4,2,Grande,Media,No aceptable
+Medio,Medio,4,2,Grande,Alta,No aceptable
+Medio,Medio,4,4,Pequeño,Baja,No aceptable
+Medio,Medio,4,4,Pequeño,Media,Aceptable
+Medio,Medio,4,4,Pequeño,Alta,Aceptable
+Medio,Medio,4,4,Mediano,Baja,No aceptable
+Medio,Medio,4,4,Mediano,Media,Aceptable
+Medio,Medio,4,4,Mediano,Alta,Muy buena
+Medio,Medio,4,4,Grande,Baja,No aceptable
+Medio,Medio,4,4,Grande,Media,Aceptable
+Medio,Medio,4,4,Grande,Alta,Muy buena
+Medio,Medio,4,más,Pequeño,Baja,No aceptable
+Medio,Medio,4,más,Pequeño,Media,Aceptable
+Medio,Medio,4,más,Pequeño,Alta,Aceptable
+Medio,Medio,4,más,Mediano,Baja,No aceptable
+Medio,Medio,4,más,Mediano,Media,Aceptable
+Medio,Medio,4,más,Mediano,Alta,Muy buena
+Medio,Medio,4,más,Grande,Baja,No aceptable
+Medio,Medio,4,más,Grande,Media,Aceptable
+Medio,Medio,4,más,Grande,Alta,Muy buena
+Medio,Medio,5 o más,2,Pequeño,Baja,No aceptable
+Medio,Medio,5 o más,2,Pequeño,Media,No aceptable
+Medio,Medio,5 o más,2,Pequeño,Alta,No aceptable
+Medio,Medio,5 o más,2,Mediano,Baja,No aceptable
+Medio,Medio,5 o más,2,Mediano,Media,No aceptable
+Medio,Medio,5 o más,2,Mediano,Alta,No aceptable
+Medio,Medio,5 o más,2,Grande,Baja,No aceptable
+Medio,Medio,5 o más,2,Grande,Media,No aceptable
+Medio,Medio,5 o más,2,Grande,Alta,No aceptable
+Medio,Medio,5 o más,4,Pequeño,Baja,No aceptable
+Medio,Medio,5 o más,4,Pequeño,Media,Aceptable
+Medio,Medio,5 o más,4,Pequeño,Alta,Aceptable
+Medio,Medio,5 o más,4,Mediano,Baja,No aceptable
+Medio,Medio,5 o más,4,Mediano,Media,Aceptable
+Medio,Medio,5 o más,4,Mediano,Alta,Muy buena
+Medio,Medio,5 o más,4,Grande,Baja,No aceptable
+Medio,Medio,5 o más,4,Grande,Media,Aceptable
+Medio,Medio,5 o más,4,Grande,Alta,Muy buena
+Medio,Medio,5 o más,más,Pequeño,Baja,No aceptable
+Medio,Medio,5 o más,más,Pequeño,Media,Aceptable
+Medio,Medio,5 o más,más,Pequeño,Alta,Aceptable
+Medio,Medio,5 o más,más,Mediano,Baja,No aceptable
+Medio,Medio,5 o más,más,Mediano,Media,Aceptable
+Medio,Medio,5 o más,más,Mediano,Alta,Muy buena
+Medio,Medio,5 o más,más,Grande,Baja,No aceptable
+Medio,Medio,5 o más,más,Grande,Media,Aceptable
+Medio,Medio,5 o más,más,Grande,Alta,Muy buena
+Medio,Bajo,2,2,Pequeño,Baja,No aceptable
+Medio,Bajo,2,2,Pequeño,Media,No aceptable
+Medio,Bajo,2,2,Pequeño,Alta,No aceptable
+Medio,Bajo,2,2,Mediano,Baja,No aceptable
+Medio,Bajo,2,2,Mediano,Media,No aceptable
+Medio,Bajo,2,2,Mediano,Alta,No aceptable
+Medio,Bajo,2,2,Grande,Baja,No aceptable
+Medio,Bajo,2,2,Grande,Media,No aceptable
+Medio,Bajo,2,2,Grande,Alta,No aceptable
+Medio,Bajo,2,4,Pequeño,Baja,No aceptable
+Medio,Bajo,2,4,Pequeño,Media,Aceptable
+Medio,Bajo,2,4,Pequeño,Alta,Buena
+Medio,Bajo,2,4,Mediano,Baja,No aceptable
+Medio,Bajo,2,4,Mediano,Media,Aceptable
+Medio,Bajo,2,4,Mediano,Alta,Buena
+Medio,Bajo,2,4,Grande,Baja,No aceptable
+Medio,Bajo,2,4,Grande,Media,Buena
+Medio,Bajo,2,4,Grande,Alta,Muy buena
+Medio,Bajo,2,más,Pequeño,Baja,No aceptable
+Medio,Bajo,2,más,Pequeño,Media,No aceptable
+Medio,Bajo,2,más,Pequeño,Alta,No aceptable
+Medio,Bajo,2,más,Mediano,Baja,No aceptable
+Medio,Bajo,2,más,Mediano,Media,Aceptable
+Medio,Bajo,2,más,Mediano,Alta,Buena
+Medio,Bajo,2,más,Grande,Baja,No aceptable
+Medio,Bajo,2,más,Grande,Media,Buena
+Medio,Bajo,2,más,Grande,Alta,Muy buena
+Medio,Bajo,3,2,Pequeño,Baja,No aceptable
+Medio,Bajo,3,2,Pequeño,Media,No aceptable
+Medio,Bajo,3,2,Pequeño,Alta,No aceptable
+Medio,Bajo,3,2,Mediano,Baja,No aceptable
+Medio,Bajo,3,2,Mediano,Media,No aceptable
+Medio,Bajo,3,2,Mediano,Alta,No aceptable
+Medio,Bajo,3,2,Grande,Baja,No aceptable
+Medio,Bajo,3,2,Grande,Media,No aceptable
+Medio,Bajo,3,2,Grande,Alta,No aceptable
+Medio,Bajo,3,4,Pequeño,Baja,No aceptable
+Medio,Bajo,3,4,Pequeño,Media,Aceptable
+Medio,Bajo,3,4,Pequeño,Alta,Buena
+Medio,Bajo,3,4,Mediano,Baja,No aceptable
+Medio,Bajo,3,4,Mediano,Media,Aceptable
+Medio,Bajo,3,4,Mediano,Alta,Buena
+Medio,Bajo,3,4,Grande,Baja,No aceptable
+Medio,Bajo,3,4,Grande,Media,Buena
+Medio,Bajo,3,4,Grande,Alta,Muy buena
+Medio,Bajo,3,más,Pequeño,Baja,No aceptable
+Medio,Bajo,3,más,Pequeño,Media,Aceptable
+Medio,Bajo,3,más,Pequeño,Alta,Buena
+Medio,Bajo,3,más,Mediano,Baja,No aceptable
+Medio,Bajo,3,más,Mediano,Media,Buena
+Medio,Bajo,3,más,Mediano,Alta,Muy buena
+Medio,Bajo,3,más,Grande,Baja,No aceptable
+Medio,Bajo,3,más,Grande,Media,Buena
+Medio,Bajo,3,más,Grande,Alta,Muy buena
+Medio,Bajo,4,2,Pequeño,Baja,No aceptable
+Medio,Bajo,4,2,Pequeño,Media,No aceptable
+Medio,Bajo,4,2,Pequeño,Alta,No aceptable
+Medio,Bajo,4,2,Mediano,Baja,No aceptable
+Medio,Bajo,4,2,Mediano,Media,No aceptable
+Medio,Bajo,4,2,Mediano,Alta,No aceptable
+Medio,Bajo,4,2,Grande,Baja,No aceptable
+Medio,Bajo,4,2,Grande,Media,No aceptable
+Medio,Bajo,4,2,Grande,Alta,No aceptable
+Medio,Bajo,4,4,Pequeño,Baja,No aceptable
+Medio,Bajo,4,4,Pequeño,Media,Aceptable
+Medio,Bajo,4,4,Pequeño,Alta,Buena
+Medio,Bajo,4,4,Mediano,Baja,No aceptable
+Medio,Bajo,4,4,Mediano,Media,Buena
+Medio,Bajo,4,4,Mediano,Alta,Muy buena
+Medio,Bajo,4,4,Grande,Baja,No aceptable
+Medio,Bajo,4,4,Grande,Media,Buena
+Medio,Bajo,4,4,Grande,Alta,Muy buena
+Medio,Bajo,4,más,Pequeño,Baja,No aceptable
+Medio,Bajo,4,más,Pequeño,Media,Aceptable
+Medio,Bajo,4,más,Pequeño,Alta,Buena
+Medio,Bajo,4,más,Mediano,Baja,No aceptable
+Medio,Bajo,4,más,Mediano,Media,Buena
+Medio,Bajo,4,más,Mediano,Alta,Muy buena
+Medio,Bajo,4,más,Grande,Baja,No aceptable
+Medio,Bajo,4,más,Grande,Media,Buena
+Medio,Bajo,4,más,Grande,Alta,Muy buena
+Medio,Bajo,5 o más,2,Pequeño,Baja,No aceptable
+Medio,Bajo,5 o más,2,Pequeño,Media,No aceptable
+Medio,Bajo,5 o más,2,Pequeño,Alta,No aceptable
+Medio,Bajo,5 o más,2,Mediano,Baja,No aceptable
+Medio,Bajo,5 o más,2,Mediano,Media,No aceptable
+Medio,Bajo,5 o más,2,Mediano,Alta,No aceptable
+Medio,Bajo,5 o más,2,Grande,Baja,No aceptable
+Medio,Bajo,5 o más,2,Grande,Media,No aceptable
+Medio,Bajo,5 o más,2,Grande,Alta,No aceptable
+Medio,Bajo,5 o más,4,Pequeño,Baja,No aceptable
+Medio,Bajo,5 o más,4,Pequeño,Media,Aceptable
+Medio,Bajo,5 o más,4,Pequeño,Alta,Buena
+Medio,Bajo,5 o más,4,Mediano,Baja,No aceptable
+Medio,Bajo,5 o más,4,Mediano,Media,Buena
+Medio,Bajo,5 o más,4,Mediano,Alta,Muy buena
+Medio,Bajo,5 o más,4,Grande,Baja,No aceptable
+Medio,Bajo,5 o más,4,Grande,Media,Buena
+Medio,Bajo,5 o más,4,Grande,Alta,Muy buena
+Medio,Bajo,5 o más,más,Pequeño,Baja,No aceptable
+Medio,Bajo,5 o más,más,Pequeño,Media,Aceptable
+Medio,Bajo,5 o más,más,Pequeño,Alta,Buena
+Medio,Bajo,5 o más,más,Mediano,Baja,No aceptable
+Medio,Bajo,5 o más,más,Mediano,Media,Buena
+Medio,Bajo,5 o más,más,Mediano,Alta,Muy buena
+Medio,Bajo,5 o más,más,Grande,Baja,No aceptable
+Medio,Bajo,5 o más,más,Grande,Media,Buena
+Medio,Bajo,5 o más,más,Grande,Alta,Muy buena
+Bajo,Muy alto,2,2,Pequeño,Baja,No aceptable
+Bajo,Muy alto,2,2,Pequeño,Media,No aceptable
+Bajo,Muy alto,2,2,Pequeño,Alta,No aceptable
+Bajo,Muy alto,2,2,Mediano,Baja,No aceptable
+Bajo,Muy alto,2,2,Mediano,Media,No aceptable
+Bajo,Muy alto,2,2,Mediano,Alta,No aceptable
+Bajo,Muy alto,2,2,Grande,Baja,No aceptable
+Bajo,Muy alto,2,2,Grande,Media,No aceptable
+Bajo,Muy alto,2,2,Grande,Alta,No aceptable
+Bajo,Muy alto,2,4,Pequeño,Baja,No aceptable
+Bajo,Muy alto,2,4,Pequeño,Media,No aceptable
+Bajo,Muy alto,2,4,Pequeño,Alta,Aceptable
+Bajo,Muy alto,2,4,Mediano,Baja,No aceptable
+Bajo,Muy alto,2,4,Mediano,Media,No aceptable
+Bajo,Muy alto,2,4,Mediano,Alta,Aceptable
+Bajo,Muy alto,2,4,Grande,Baja,No aceptable
+Bajo,Muy alto,2,4,Grande,Media,Aceptable
+Bajo,Muy alto,2,4,Grande,Alta,Aceptable
+Bajo,Muy alto,2,más,Pequeño,Baja,No aceptable
+Bajo,Muy alto,2,más,Pequeño,Media,No aceptable
+Bajo,Muy alto,2,más,Pequeño,Alta,No aceptable
+Bajo,Muy alto,2,más,Mediano,Baja,No aceptable
+Bajo,Muy alto,2,más,Mediano,Media,No aceptable
+Bajo,Muy alto,2,más,Mediano,Alta,Aceptable
+Bajo,Muy alto,2,más,Grande,Baja,No aceptable
+Bajo,Muy alto,2,más,Grande,Media,Aceptable
+Bajo,Muy alto,2,más,Grande,Alta,Aceptable
+Bajo,Muy alto,3,2,Pequeño,Baja,No aceptable
+Bajo,Muy alto,3,2,Pequeño,Media,No aceptable
+Bajo,Muy alto,3,2,Pequeño,Alta,No aceptable
+Bajo,Muy alto,3,2,Mediano,Baja,No aceptable
+Bajo,Muy alto,3,2,Mediano,Media,No aceptable
+Bajo,Muy alto,3,2,Mediano,Alta,No aceptable
+Bajo,Muy alto,3,2,Grande,Baja,No aceptable
+Bajo,Muy alto,3,2,Grande,Media,No aceptable
+Bajo,Muy alto,3,2,Grande,Alta,No aceptable
+Bajo,Muy alto,3,4,Pequeño,Baja,No aceptable
+Bajo,Muy alto,3,4,Pequeño,Media,No aceptable
+Bajo,Muy alto,3,4,Pequeño,Alta,Aceptable
+Bajo,Muy alto,3,4,Mediano,Baja,No aceptable
+Bajo,Muy alto,3,4,Mediano,Media,No aceptable
+Bajo,Muy alto,3,4,Mediano,Alta,Aceptable
+Bajo,Muy alto,3,4,Grande,Baja,No aceptable
+Bajo,Muy alto,3,4,Grande,Media,Aceptable
+Bajo,Muy alto,3,4,Grande,Alta,Aceptable
+Bajo,Muy alto,3,más,Pequeño,Baja,No aceptable
+Bajo,Muy alto,3,más,Pequeño,Media,No aceptable
+Bajo,Muy alto,3,más,Pequeño,Alta,Aceptable
+Bajo,Muy alto,3,más,Mediano,Baja,No aceptable
+Bajo,Muy alto,3,más,Mediano,Media,Aceptable
+Bajo,Muy alto,3,más,Mediano,Alta,Aceptable
+Bajo,Muy alto,3,más,Grande,Baja,No aceptable
+Bajo,Muy alto,3,más,Grande,Media,Aceptable
+Bajo,Muy alto,3,más,Grande,Alta,Aceptable
+Bajo,Muy alto,4,2,Pequeño,Baja,No aceptable
+Bajo,Muy alto,4,2,Pequeño,Media,No aceptable
+Bajo,Muy alto,4,2,Pequeño,Alta,No aceptable
+Bajo,Muy alto,4,2,Mediano,Baja,No aceptable
+Bajo,Muy alto,4,2,Mediano,Media,No aceptable
+Bajo,Muy alto,4,2,Mediano,Alta,No aceptable
+Bajo,Muy alto,4,2,Grande,Baja,No aceptable
+Bajo,Muy alto,4,2,Grande,Media,No aceptable
+Bajo,Muy alto,4,2,Grande,Alta,No aceptable
+Bajo,Muy alto,4,4,Pequeño,Baja,No aceptable
+Bajo,Muy alto,4,4,Pequeño,Media,No aceptable
+Bajo,Muy alto,4,4,Pequeño,Alta,Aceptable
+Bajo,Muy alto,4,4,Mediano,Baja,No aceptable
+Bajo,Muy alto,4,4,Mediano,Media,Aceptable
+Bajo,Muy alto,4,4,Mediano,Alta,Aceptable
+Bajo,Muy alto,4,4,Grande,Baja,No aceptable
+Bajo,Muy alto,4,4,Grande,Media,Aceptable
+Bajo,Muy alto,4,4,Grande,Alta,Aceptable
+Bajo,Muy alto,4,más,Pequeño,Baja,No aceptable
+Bajo,Muy alto,4,más,Pequeño,Media,No aceptable
+Bajo,Muy alto,4,más,Pequeño,Alta,Aceptable
+Bajo,Muy alto,4,más,Mediano,Baja,No aceptable
+Bajo,Muy alto,4,más,Mediano,Media,Aceptable
+Bajo,Muy alto,4,más,Mediano,Alta,Aceptable
+Bajo,Muy alto,4,más,Grande,Baja,No aceptable
+Bajo,Muy alto,4,más,Grande,Media,Aceptable
+Bajo,Muy alto,4,más,Grande,Alta,Aceptable
+Bajo,Muy alto,5 o más,2,Pequeño,Baja,No aceptable
+Bajo,Muy alto,5 o más,2,Pequeño,Media,No aceptable
+Bajo,Muy alto,5 o más,2,Pequeño,Alta,No aceptable
+Bajo,Muy alto,5 o más,2,Mediano,Baja,No aceptable
+Bajo,Muy alto,5 o más,2,Mediano,Media,No aceptable
+Bajo,Muy alto,5 o más,2,Mediano,Alta,No aceptable
+Bajo,Muy alto,5 o más,2,Grande,Baja,No aceptable
+Bajo,Muy alto,5 o más,2,Grande,Media,No aceptable
+Bajo,Muy alto,5 o más,2,Grande,Alta,No aceptable
+Bajo,Muy alto,5 o más,4,Pequeño,Baja,No aceptable
+Bajo,Muy alto,5 o más,4,Pequeño,Media,No aceptable
+Bajo,Muy alto,5 o más,4,Pequeño,Alta,Aceptable
+Bajo,Muy alto,5 o más,4,Mediano,Baja,No aceptable
+Bajo,Muy alto,5 o más,4,Mediano,Media,Aceptable
+Bajo,Muy alto,5 o más,4,Mediano,Alta,Aceptable
+Bajo,Muy alto,5 o más,4,Grande,Baja,No aceptable
+Bajo,Muy alto,5 o más,4,Grande,Media,Aceptable
+Bajo,Muy alto,5 o más,4,Grande,Alta,Aceptable
+Bajo,Muy alto,5 o más,más,Pequeño,Baja,No aceptable
+Bajo,Muy alto,5 o más,más,Pequeño,Media,No aceptable
+Bajo,Muy alto,5 o más,más,Pequeño,Alta,Aceptable
+Bajo,Muy alto,5 o más,más,Mediano,Baja,No aceptable
+Bajo,Muy alto,5 o más,más,Mediano,Media,Aceptable
+Bajo,Muy alto,5 o más,más,Mediano,Alta,Aceptable
+Bajo,Muy alto,5 o más,más,Grande,Baja,No aceptable
+Bajo,Muy alto,5 o más,más,Grande,Media,Aceptable
+Bajo,Muy alto,5 o más,más,Grande,Alta,Aceptable
+Bajo,Alto,2,2,Pequeño,Baja,No aceptable
+Bajo,Alto,2,2,Pequeño,Media,No aceptable
+Bajo,Alto,2,2,Pequeño,Alta,No aceptable
+Bajo,Alto,2,2,Mediano,Baja,No aceptable
+Bajo,Alto,2,2,Mediano,Media,No aceptable
+Bajo,Alto,2,2,Mediano,Alta,No aceptable
+Bajo,Alto,2,2,Grande,Baja,No aceptable
+Bajo,Alto,2,2,Grande,Media,No aceptable
+Bajo,Alto,2,2,Grande,Alta,No aceptable
+Bajo,Alto,2,4,Pequeño,Baja,No aceptable
+Bajo,Alto,2,4,Pequeño,Media,Aceptable
+Bajo,Alto,2,4,Pequeño,Alta,Aceptable
+Bajo,Alto,2,4,Mediano,Baja,No aceptable
+Bajo,Alto,2,4,Mediano,Media,Aceptable
+Bajo,Alto,2,4,Mediano,Alta,Aceptable
+Bajo,Alto,2,4,Grande,Baja,No aceptable
+Bajo,Alto,2,4,Grande,Media,Aceptable
+Bajo,Alto,2,4,Grande,Alta,Muy buena
+Bajo,Alto,2,más,Pequeño,Baja,No aceptable
+Bajo,Alto,2,más,Pequeño,Media,No aceptable
+Bajo,Alto,2,más,Pequeño,Alta,No aceptable
+Bajo,Alto,2,más,Mediano,Baja,No aceptable
+Bajo,Alto,2,más,Mediano,Media,Aceptable
+Bajo,Alto,2,más,Mediano,Alta,Aceptable
+Bajo,Alto,2,más,Grande,Baja,No aceptable
+Bajo,Alto,2,más,Grande,Media,Aceptable
+Bajo,Alto,2,más,Grande,Alta,Muy buena
+Bajo,Alto,3,2,Pequeño,Baja,No aceptable
+Bajo,Alto,3,2,Pequeño,Media,No aceptable
+Bajo,Alto,3,2,Pequeño,Alta,No aceptable
+Bajo,Alto,3,2,Mediano,Baja,No aceptable
+Bajo,Alto,3,2,Mediano,Media,No aceptable
+Bajo,Alto,3,2,Mediano,Alta,No aceptable
+Bajo,Alto,3,2,Grande,Baja,No aceptable
+Bajo,Alto,3,2,Grande,Media,No aceptable
+Bajo,Alto,3,2,Grande,Alta,No aceptable
+Bajo,Alto,3,4,Pequeño,Baja,No aceptable
+Bajo,Alto,3,4,Pequeño,Media,Aceptable
+Bajo,Alto,3,4,Pequeño,Alta,Aceptable
+Bajo,Alto,3,4,Mediano,Baja,No aceptable
+Bajo,Alto,3,4,Mediano,Media,Aceptable
+Bajo,Alto,3,4,Mediano,Alta,Aceptable
+Bajo,Alto,3,4,Grande,Baja,No aceptable
+Bajo,Alto,3,4,Grande,Media,Aceptable
+Bajo,Alto,3,4,Grande,Alta,Muy buena
+Bajo,Alto,3,más,Pequeño,Baja,No aceptable
+Bajo,Alto,3,más,Pequeño,Media,Aceptable
+Bajo,Alto,3,más,Pequeño,Alta,Aceptable
+Bajo,Alto,3,más,Mediano,Baja,No aceptable
+Bajo,Alto,3,más,Mediano,Media,Aceptable
+Bajo,Alto,3,más,Mediano,Alta,Muy buena
+Bajo,Alto,3,más,Grande,Baja,No aceptable
+Bajo,Alto,3,más,Grande,Media,Aceptable
+Bajo,Alto,3,más,Grande,Alta,Muy buena
+Bajo,Alto,4,2,Pequeño,Baja,No aceptable
+Bajo,Alto,4,2,Pequeño,Media,No aceptable
+Bajo,Alto,4,2,Pequeño,Alta,No aceptable
+Bajo,Alto,4,2,Mediano,Baja,No aceptable
+Bajo,Alto,4,2,Mediano,Media,No aceptable
+Bajo,Alto,4,2,Mediano,Alta,No aceptable
+Bajo,Alto,4,2,Grande,Baja,No aceptable
+Bajo,Alto,4,2,Grande,Media,No aceptable
+Bajo,Alto,4,2,Grande,Alta,No aceptable
+Bajo,Alto,4,4,Pequeño,Baja,No aceptable
+Bajo,Alto,4,4,Pequeño,Media,Aceptable
+Bajo,Alto,4,4,Pequeño,Alta,Aceptable
+Bajo,Alto,4,4,Mediano,Baja,No aceptable
+Bajo,Alto,4,4,Mediano,Media,Aceptable
+Bajo,Alto,4,4,Mediano,Alta,Muy buena
+Bajo,Alto,4,4,Grande,Baja,No aceptable
+Bajo,Alto,4,4,Grande,Media,Aceptable
+Bajo,Alto,4,4,Grande,Alta,Muy buena
+Bajo,Alto,4,más,Pequeño,Baja,No aceptable
+Bajo,Alto,4,más,Pequeño,Media,Aceptable
+Bajo,Alto,4,más,Pequeño,Alta,Aceptable
+Bajo,Alto,4,más,Mediano,Baja,No aceptable
+Bajo,Alto,4,más,Mediano,Media,Aceptable
+Bajo,Alto,4,más,Mediano,Alta,Muy buena
+Bajo,Alto,4,más,Grande,Baja,No aceptable
+Bajo,Alto,4,más,Grande,Media,Aceptable
+Bajo,Alto,4,más,Grande,Alta,Muy buena
+Bajo,Alto,5 o más,2,Pequeño,Baja,No aceptable
+Bajo,Alto,5 o más,2,Pequeño,Media,No aceptable
+Bajo,Alto,5 o más,2,Pequeño,Alta,No aceptable
+Bajo,Alto,5 o más,2,Mediano,Baja,No aceptable
+Bajo,Alto,5 o más,2,Mediano,Media,No aceptable
+Bajo,Alto,5 o más,2,Mediano,Alta,No aceptable
+Bajo,Alto,5 o más,2,Grande,Baja,No aceptable
+Bajo,Alto,5 o más,2,Grande,Media,No aceptable
+Bajo,Alto,5 o más,2,Grande,Alta,No aceptable
+Bajo,Alto,5 o más,4,Pequeño,Baja,No aceptable
+Bajo,Alto,5 o más,4,Pequeño,Media,Aceptable
+Bajo,Alto,5 o más,4,Pequeño,Alta,Aceptable
+Bajo,Alto,5 o más,4,Mediano,Baja,No aceptable
+Bajo,Alto,5 o más,4,Mediano,Media,Aceptable
+Bajo,Alto,5 o más,4,Mediano,Alta,Muy buena
+Bajo,Alto,5 o más,4,Grande,Baja,No aceptable
+Bajo,Alto,5 o más,4,Grande,Media,Aceptable
+Bajo,Alto,5 o más,4,Grande,Alta,Muy buena
+Bajo,Alto,5 o más,más,Pequeño,Baja,No aceptable
+Bajo,Alto,5 o más,más,Pequeño,Media,Aceptable
+Bajo,Alto,5 o más,más,Pequeño,Alta,Aceptable
+Bajo,Alto,5 o más,más,Mediano,Baja,No aceptable
+Bajo,Alto,5 o más,más,Mediano,Media,Aceptable
+Bajo,Alto,5 o más,más,Mediano,Alta,Muy buena
+Bajo,Alto,5 o más,más,Grande,Baja,No aceptable
+Bajo,Alto,5 o más,más,Grande,Media,Aceptable
+Bajo,Alto,5 o más,más,Grande,Alta,Muy buena
+Bajo,Medio,2,2,Pequeño,Baja,No aceptable
+Bajo,Medio,2,2,Pequeño,Media,No aceptable
+Bajo,Medio,2,2,Pequeño,Alta,No aceptable
+Bajo,Medio,2,2,Mediano,Baja,No aceptable
+Bajo,Medio,2,2,Mediano,Media,No aceptable
+Bajo,Medio,2,2,Mediano,Alta,No aceptable
+Bajo,Medio,2,2,Grande,Baja,No aceptable
+Bajo,Medio,2,2,Grande,Media,No aceptable
+Bajo,Medio,2,2,Grande,Alta,No aceptable
+Bajo,Medio,2,4,Pequeño,Baja,No aceptable
+Bajo,Medio,2,4,Pequeño,Media,Aceptable
+Bajo,Medio,2,4,Pequeño,Alta,Buena
+Bajo,Medio,2,4,Mediano,Baja,No aceptable
+Bajo,Medio,2,4,Mediano,Media,Aceptable
+Bajo,Medio,2,4,Mediano,Alta,Buena
+Bajo,Medio,2,4,Grande,Baja,No aceptable
+Bajo,Medio,2,4,Grande,Media,Buena
+Bajo,Medio,2,4,Grande,Alta,Muy buena
+Bajo,Medio,2,más,Pequeño,Baja,No aceptable
+Bajo,Medio,2,más,Pequeño,Media,No aceptable
+Bajo,Medio,2,más,Pequeño,Alta,No aceptable
+Bajo,Medio,2,más,Mediano,Baja,No aceptable
+Bajo,Medio,2,más,Mediano,Media,Aceptable
+Bajo,Medio,2,más,Mediano,Alta,Buena
+Bajo,Medio,2,más,Grande,Baja,No aceptable
+Bajo,Medio,2,más,Grande,Media,Buena
+Bajo,Medio,2,más,Grande,Alta,Muy buena
+Bajo,Medio,3,2,Pequeño,Baja,No aceptable
+Bajo,Medio,3,2,Pequeño,Media,No aceptable
+Bajo,Medio,3,2,Pequeño,Alta,No aceptable
+Bajo,Medio,3,2,Mediano,Baja,No aceptable
+Bajo,Medio,3,2,Mediano,Media,No aceptable
+Bajo,Medio,3,2,Mediano,Alta,No aceptable
+Bajo,Medio,3,2,Grande,Baja,No aceptable
+Bajo,Medio,3,2,Grande,Media,No aceptable
+Bajo,Medio,3,2,Grande,Alta,No aceptable
+Bajo,Medio,3,4,Pequeño,Baja,No aceptable
+Bajo,Medio,3,4,Pequeño,Media,Aceptable
+Bajo,Medio,3,4,Pequeño,Alta,Buena
+Bajo,Medio,3,4,Mediano,Baja,No aceptable
+Bajo,Medio,3,4,Mediano,Media,Aceptable
+Bajo,Medio,3,4,Mediano,Alta,Buena
+Bajo,Medio,3,4,Grande,Baja,No aceptable
+Bajo,Medio,3,4,Grande,Media,Buena
+Bajo,Medio,3,4,Grande,Alta,Muy buena
+Bajo,Medio,3,más,Pequeño,Baja,No aceptable
+Bajo,Medio,3,más,Pequeño,Media,Aceptable
+Bajo,Medio,3,más,Pequeño,Alta,Buena
+Bajo,Medio,3,más,Mediano,Baja,No aceptable
+Bajo,Medio,3,más,Mediano,Media,Buena
+Bajo,Medio,3,más,Mediano,Alta,Muy buena
+Bajo,Medio,3,más,Grande,Baja,No aceptable
+Bajo,Medio,3,más,Grande,Media,Buena
+Bajo,Medio,3,más,Grande,Alta,Muy buena
+Bajo,Medio,4,2,Pequeño,Baja,No aceptable
+Bajo,Medio,4,2,Pequeño,Media,No aceptable
+Bajo,Medio,4,2,Pequeño,Alta,No aceptable
+Bajo,Medio,4,2,Mediano,Baja,No aceptable
+Bajo,Medio,4,2,Mediano,Media,No aceptable
+Bajo,Medio,4,2,Mediano,Alta,No aceptable
+Bajo,Medio,4,2,Grande,Baja,No aceptable
+Bajo,Medio,4,2,Grande,Media,No aceptable
+Bajo,Medio,4,2,Grande,Alta,No aceptable
+Bajo,Medio,4,4,Pequeño,Baja,No aceptable
+Bajo,Medio,4,4,Pequeño,Media,Aceptable
+Bajo,Medio,4,4,Pequeño,Alta,Buena
+Bajo,Medio,4,4,Mediano,Baja,No aceptable
+Bajo,Medio,4,4,Mediano,Media,Buena
+Bajo,Medio,4,4,Mediano,Alta,Muy buena
+Bajo,Medio,4,4,Grande,Baja,No aceptable
+Bajo,Medio,4,4,Grande,Media,Buena
+Bajo,Medio,4,4,Grande,Alta,Muy buena
+Bajo,Medio,4,más,Pequeño,Baja,No aceptable
+Bajo,Medio,4,más,Pequeño,Media,Aceptable
+Bajo,Medio,4,más,Pequeño,Alta,Buena
+Bajo,Medio,4,más,Mediano,Baja,No aceptable
+Bajo,Medio,4,más,Mediano,Media,Buena
+Bajo,Medio,4,más,Mediano,Alta,Muy buena
+Bajo,Medio,4,más,Grande,Baja,No aceptable
+Bajo,Medio,4,más,Grande,Media,Buena
+Bajo,Medio,4,más,Grande,Alta,Muy buena
+Bajo,Medio,5 o más,2,Pequeño,Baja,No aceptable
+Bajo,Medio,5 o más,2,Pequeño,Media,No aceptable
+Bajo,Medio,5 o más,2,Pequeño,Alta,No aceptable
+Bajo,Medio,5 o más,2,Mediano,Baja,No aceptable
+Bajo,Medio,5 o más,2,Mediano,Media,No aceptable
+Bajo,Medio,5 o más,2,Mediano,Alta,No aceptable
+Bajo,Medio,5 o más,2,Grande,Baja,No aceptable
+Bajo,Medio,5 o más,2,Grande,Media,No aceptable
+Bajo,Medio,5 o más,2,Grande,Alta,No aceptable
+Bajo,Medio,5 o más,4,Pequeño,Baja,No aceptable
+Bajo,Medio,5 o más,4,Pequeño,Media,Aceptable
+Bajo,Medio,5 o más,4,Pequeño,Alta,Buena
+Bajo,Medio,5 o más,4,Mediano,Baja,No aceptable
+Bajo,Medio,5 o más,4,Mediano,Media,Buena
+Bajo,Medio,5 o más,4,Mediano,Alta,Muy buena
+Bajo,Medio,5 o más,4,Grande,Baja,No aceptable
+Bajo,Medio,5 o más,4,Grande,Media,Buena
+Bajo,Medio,5 o más,4,Grande,Alta,Muy buena
+Bajo,Medio,5 o más,más,Pequeño,Baja,No aceptable
+Bajo,Medio,5 o más,más,Pequeño,Media,Aceptable
+Bajo,Medio,5 o más,más,Pequeño,Alta,Buena
+Bajo,Medio,5 o más,más,Mediano,Baja,No aceptable
+Bajo,Medio,5 o más,más,Mediano,Media,Buena
+Bajo,Medio,5 o más,más,Mediano,Alta,Muy buena
+Bajo,Medio,5 o más,más,Grande,Baja,No aceptable
+Bajo,Medio,5 o más,más,Grande,Media,Buena
+Bajo,Medio,5 o más,más,Grande,Alta,Muy buena
+Bajo,Bajo,2,2,Pequeño,Baja,No aceptable
+Bajo,Bajo,2,2,Pequeño,Media,No aceptable
+Bajo,Bajo,2,2,Pequeño,Alta,No aceptable
+Bajo,Bajo,2,2,Mediano,Baja,No aceptable
+Bajo,Bajo,2,2,Mediano,Media,No aceptable
+Bajo,Bajo,2,2,Mediano,Alta,No aceptable
+Bajo,Bajo,2,2,Grande,Baja,No aceptable
+Bajo,Bajo,2,2,Grande,Media,No aceptable
+Bajo,Bajo,2,2,Grande,Alta,No aceptable
+Bajo,Bajo,2,4,Pequeño,Baja,No aceptable
+Bajo,Bajo,2,4,Pequeño,Media,Aceptable
+Bajo,Bajo,2,4,Pequeño,Alta,Buena
+Bajo,Bajo,2,4,Mediano,Baja,No aceptable
+Bajo,Bajo,2,4,Mediano,Media,Aceptable
+Bajo,Bajo,2,4,Mediano,Alta,Buena
+Bajo,Bajo,2,4,Grande,Baja,No aceptable
+Bajo,Bajo,2,4,Grande,Media,Buena
+Bajo,Bajo,2,4,Grande,Alta,Muy buena
+Bajo,Bajo,2,más,Pequeño,Baja,No aceptable
+Bajo,Bajo,2,más,Pequeño,Media,No aceptable
+Bajo,Bajo,2,más,Pequeño,Alta,No aceptable
+Bajo,Bajo,2,más,Mediano,Baja,No aceptable
+Bajo,Bajo,2,más,Mediano,Media,Aceptable
+Bajo,Bajo,2,más,Mediano,Alta,Buena
+Bajo,Bajo,2,más,Grande,Baja,No aceptable
+Bajo,Bajo,2,más,Grande,Media,Buena
+Bajo,Bajo,2,más,Grande,Alta,Muy buena
+Bajo,Bajo,3,2,Pequeño,Baja,No aceptable
+Bajo,Bajo,3,2,Pequeño,Media,No aceptable
+Bajo,Bajo,3,2,Pequeño,Alta,No aceptable
+Bajo,Bajo,3,2,Mediano,Baja,No aceptable
+Bajo,Bajo,3,2,Mediano,Media,No aceptable
+Bajo,Bajo,3,2,Mediano,Alta,No aceptable
+Bajo,Bajo,3,2,Grande,Baja,No aceptable
+Bajo,Bajo,3,2,Grande,Media,No aceptable
+Bajo,Bajo,3,2,Grande,Alta,No aceptable
+Bajo,Bajo,3,4,Pequeño,Baja,No aceptable
+Bajo,Bajo,3,4,Pequeño,Media,Aceptable
+Bajo,Bajo,3,4,Pequeño,Alta,Buena
+Bajo,Bajo,3,4,Mediano,Baja,No aceptable
+Bajo,Bajo,3,4,Mediano,Media,Aceptable
+Bajo,Bajo,3,4,Mediano,Alta,Buena
+Bajo,Bajo,3,4,Grande,Baja,No aceptable
+Bajo,Bajo,3,4,Grande,Media,Buena
+Bajo,Bajo,3,4,Grande,Alta,Muy buena
+Bajo,Bajo,3,más,Pequeño,Baja,No aceptable
+Bajo,Bajo,3,más,Pequeño,Media,Aceptable
+Bajo,Bajo,3,más,Pequeño,Alta,Buena
+Bajo,Bajo,3,más,Mediano,Baja,No aceptable
+Bajo,Bajo,3,más,Mediano,Media,Buena
+Bajo,Bajo,3,más,Mediano,Alta,Muy buena
+Bajo,Bajo,3,más,Grande,Baja,No aceptable
+Bajo,Bajo,3,más,Grande,Media,Buena
+Bajo,Bajo,3,más,Grande,Alta,Muy buena
+Bajo,Bajo,4,2,Pequeño,Baja,No aceptable
+Bajo,Bajo,4,2,Pequeño,Media,No aceptable
+Bajo,Bajo,4,2,Pequeño,Alta,No aceptable
+Bajo,Bajo,4,2,Mediano,Baja,No aceptable
+Bajo,Bajo,4,2,Mediano,Media,No aceptable
+Bajo,Bajo,4,2,Mediano,Alta,No aceptable
+Bajo,Bajo,4,2,Grande,Baja,No aceptable
+Bajo,Bajo,4,2,Grande,Media,No aceptable
+Bajo,Bajo,4,2,Grande,Alta,No aceptable
+Bajo,Bajo,4,4,Pequeño,Baja,No aceptable
+Bajo,Bajo,4,4,Pequeño,Media,Aceptable
+Bajo,Bajo,4,4,Pequeño,Alta,Buena
+Bajo,Bajo,4,4,Mediano,Baja,No aceptable
+Bajo,Bajo,4,4,Mediano,Media,Buena
+Bajo,Bajo,4,4,Mediano,Alta,Muy buena
+Bajo,Bajo,4,4,Grande,Baja,No aceptable
+Bajo,Bajo,4,4,Grande,Media,Buena
+Bajo,Bajo,4,4,Grande,Alta,Muy buena
+Bajo,Bajo,4,más,Pequeño,Baja,No aceptable
+Bajo,Bajo,4,más,Pequeño,Media,Aceptable
+Bajo,Bajo,4,más,Pequeño,Alta,Buena
+Bajo,Bajo,4,más,Mediano,Baja,No aceptable
+Bajo,Bajo,4,más,Mediano,Media,Buena
+Bajo,Bajo,4,más,Mediano,Alta,Muy buena
+Bajo,Bajo,4,más,Grande,Baja,No aceptable
+Bajo,Bajo,4,más,Grande,Media,Buena
+Bajo,Bajo,4,más,Grande,Alta,Muy buena
+Bajo,Bajo,5 o más,2,Pequeño,Baja,No aceptable
+Bajo,Bajo,5 o más,2,Pequeño,Media,No aceptable
+Bajo,Bajo,5 o más,2,Pequeño,Alta,No aceptable
+Bajo,Bajo,5 o más,2,Mediano,Baja,No aceptable
+Bajo,Bajo,5 o más,2,Mediano,Media,No aceptable
+Bajo,Bajo,5 o más,2,Mediano,Alta,No aceptable
+Bajo,Bajo,5 o más,2,Grande,Baja,No aceptable
+Bajo,Bajo,5 o más,2,Grande,Media,No aceptable
+Bajo,Bajo,5 o más,2,Grande,Alta,No aceptable
+Bajo,Bajo,5 o más,4,Pequeño,Baja,No aceptable
+Bajo,Bajo,5 o más,4,Pequeño,Media,Aceptable
+Bajo,Bajo,5 o más,4,Pequeño,Alta,Buena
+Bajo,Bajo,5 o más,4,Mediano,Baja,No aceptable
+Bajo,Bajo,5 o más,4,Mediano,Media,Buena
+Bajo,Bajo,5 o más,4,Mediano,Alta,Muy buena
+Bajo,Bajo,5 o más,4,Grande,Baja,No aceptable
+Bajo,Bajo,5 o más,4,Grande,Media,Buena
+Bajo,Bajo,5 o más,4,Grande,Alta,Muy buena
+Bajo,Bajo,5 o más,más,Pequeño,Baja,No aceptable
+Bajo,Bajo,5 o más,más,Pequeño,Media,Aceptable
+Bajo,Bajo,5 o más,más,Pequeño,Alta,Buena
+Bajo,Bajo,5 o más,más,Mediano,Baja,No aceptable
+Bajo,Bajo,5 o más,más,Mediano,Media,Buena
+Bajo,Bajo,5 o más,más,Mediano,Alta,Muy buena
+Bajo,Bajo,5 o más,más,Grande,Baja,No aceptable
+Bajo,Bajo,5 o más,más,Grande,Media,Buena
+Bajo,Bajo,5 o más,más,Grande,Alta,Muy buena
